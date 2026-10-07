@@ -2,44 +2,57 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#0b4ea2">
-<meta name="description" content="Indio Informática — tecnología, fotografía, gaming y Apple.">
+<meta name="theme-color" content="#0757b8">
+<meta name="description" content="Indio Informática — tecnología, Apple, fotografía, gaming y mucho más. La Plata, Buenos Aires.">
 <title>Indio Informática · Tecnología bien elegida</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <header class="site-header">
-<a class="brand" href="./" aria-label="Indio Informática"><img src="assets/indio-logo.png" alt="Indio Informática"></a>
-<nav class="desktop-nav"><a href="#catalogo">Productos</a><a href="#categorias">Categorías</a><a href="#asesoramiento">Asesoramiento</a></nav>
-<div class="header-actions"><button class="icon-btn" id="searchBtn" aria-label="Buscar">⌕</button><a class="cart-link" href="#catalogo">Ver catálogo</a><a class="wa-mini" id="waHeader" href="#" target="_blank" rel="noopener">WhatsApp</a></div>
+  <a class="brand" href="./" aria-label="Indio Informática"><img src="assets/indio-logo.png" alt="Indio Informática"></a>
+  <nav class="desktop-nav"><a href="#categorias">Categorías</a><a href="#marcas">Marcas</a><a href="#asesoramiento">Asesoramiento</a></nav>
+  <div class="header-actions"><a class="ig-mini" href="https://www.instagram.com/indioinformatica/" target="_blank" rel="noopener">Instagram</a><button class="icon-btn" id="searchBtn" aria-label="Buscar">⌕</button><a class="wa-mini" id="waHeader" href="#" target="_blank" rel="noopener">WhatsApp</a></div>
 </header>
 <main>
 <section class="hero">
-<div class="hero-copy"><div class="quote-strip"><span>Dólar de referencia</span><strong id="dolarVenta">Dólar Blue · $1.555</strong><a href="https://dolarhoy.com/" target="_blank" rel="noopener">DólarHoy</a></div><p class="eyebrow">TECNOLOGÍA · FOTO · GAMING</p>
-<h1>Elegí tecnología<br><em>sin complicarte.</em></h1>
-<p class="hero-text">Productos seleccionados, marcas que conocés y asesoramiento real para comprar mejor.</p>
-<div class="hero-actions"><a class="btn dark" href="#catalogo">Ver productos</a><a class="btn light" href="#asesoramiento">Necesito ayuda</a></div>
-<div class="trust"><span>✓ Atención personalizada</span><span>✓ Productos seleccionados</span><span>✓ Compra simple</span></div>
-</div>
-<div class="hero-art"><div class="orb orb-a"></div><div class="orb orb-b"></div>
-<div class="hero-card"><span>INDIO SELECT</span><strong>Lo último en tecnología,<br>bien elegido.</strong><small>Apple · Samsung · Nikon · Canon · Sony · DJI · Gaming</small></div>
-</div></section>
+  <div class="hero-copy">
+    <p class="eyebrow">INDIO INFORMÁTICA · LA PLATA</p>
+    <h1>Tecnología<br><em>bien elegida.</em></h1>
+    <p class="hero-text">Apple, celulares, fotografía, notebooks, gaming y accesorios. Explorá por categoría y encontrá exactamente lo que buscás.</p>
+    <div class="hero-actions"><a class="btn dark" href="#categorias">Explorar categorías</a><a class="btn light" id="heroWa" href="#" target="_blank">Hablar con nosotros</a></div>
+    <div class="trust"><span>✓ Atención personalizada</span><span>✓ Productos seleccionados</span><span>✓ La Plata · Buenos Aires</span></div>
+  </div>
+  <div class="hero-art">
+    <div class="hero-art-copy"><span>INDIO SELECT</span><strong>Elegí por<br>lo que necesitás.</strong><small>Una tienda ordenada, clara y fácil de recorrer.</small></div>
+    <div class="hero-circle c1"></div><div class="hero-circle c2"></div>
+  </div>
+</section>
 
-<section id="categorias" class="section"><div class="section-head"><div><p class="eyebrow">EXPLORÁ</p><h2>Encontrá lo que buscás</h2></div></div>
-<div class="category-grid"><button class="category-card" data-category="Apple"><span>APPLE</span><strong>iPhone · iPad · Mac · Watch</strong><i>↗</i></button>
-<button class="category-card" data-category="Samsung"><span>SAMSUNG</span><strong>Galaxy · Tablets · Wearables</strong><i>↗</i></button>
-<button class="category-card" data-category="Fotografía"><span>FOTOGRAFÍA</span><strong>Nikon · Canon · Sony · Lentes</strong><i>↗</i></button>
-<button class="category-card" data-category="Notebooks"><span>NOTEBOOKS</span><strong>Office · Estudio · Gaming</strong><i>↗</i></button>
-<button class="category-card" data-category="Gaming"><span>GAMING</span><strong>PlayStation · Xbox · Nintendo · PC</strong><i>↗</i></button>
-<button class="category-card" data-category="Creator"><span>CREATOR</span><strong>DJI · Insta360 · GoPro · Audio</strong><i>↗</i></button></div></section>
+<section id="categorias" class="section categories-section">
+  <div class="section-head"><div><p class="eyebrow">EXPLORÁ LA TIENDA</p><h2>¿Qué estás buscando?</h2></div><p class="section-note">Primero elegí una categoría.<br>Después vemos los productos.</p></div>
+  <div class="category-grid" id="categoryGrid"></div>
+</section>
 
-<section id="catalogo" class="section catalog-section">
-<div class="section-head"><div><p class="eyebrow">CATÁLOGO</p><h2>Productos destacados</h2></div><span class="catalog-count" id="catalogCount"></span></div>
-<div class="catalog-toolbar"><input id="search" type="search" placeholder="Buscar iPhone, Nikon, MacBook..."><select id="categoryFilter"><option value="">Todas las categorías</option></select><select id="sort"><option value="featured">Orden recomendado</option><option value="priceAsc">Precio menor</option><option value="priceDesc">Precio mayor</option><option value="name">Nombre A–Z</option></select></div>
-<div class="product-grid" id="productGrid"></div></section>
+<section id="catalogo" class="section catalog-section" hidden>
+  <div class="section-head"><div><p class="eyebrow" id="catalogEyebrow">CATEGORÍA</p><h2 id="catalogTitle">Productos</h2></div><button class="back-btn" id="backCategories">← Volver a categorías</button></div>
+  <div class="subcategory-row" id="subcategoryRow"></div>
+  <div class="catalog-toolbar"><input id="search" type="search" placeholder="Buscar dentro de esta categoría..."><select id="sort"><option value="featured">Orden recomendado</option><option value="name">Nombre A–Z</option></select></div>
+  <div class="catalog-count" id="catalogCount"></div>
+  <div class="product-grid" id="productGrid"></div>
+</section>
 
-<section id="asesoramiento" class="advice"><div><p class="eyebrow">NO TODO ES EL MODELO MÁS CARO</p><h2>Te ayudamos a elegir<br>lo que realmente necesitás.</h2><p>Contanos qué querés hacer, cuánto querés invertir y te orientamos hacia la mejor opción.</p></div><a class="btn white" id="waBtn" href="#" target="_blank">Hablar por WhatsApp →</a></section>
+<section id="marcas" class="section brands-section">
+  <div class="section-head"><div><p class="eyebrow">MARCAS</p><h2>Trabajamos con marcas que conocés.</h2></div></div>
+  <div class="brand-strip"><span>Apple</span><span>Samsung</span><span>Motorola</span><span>Xiaomi</span><span>Nikon</span><span>Canon</span><span>Sony</span><span>DJI</span><span>Insta360</span><span>JBL</span><span>PlayStation</span><span>Nintendo</span></div>
+</section>
+
+<section id="asesoramiento" class="advice"><div><p class="eyebrow">¿NO SABÉS QUÉ ELEGIR?</p><h2>Te ayudamos a encontrar<br>la opción correcta.</h2><p>Decinos qué necesitás hacer y te orientamos. Sin vueltas y sin venderte algo que no necesitás.</p></div><a class="btn white" id="waBtn" href="#" target="_blank">Hablar por WhatsApp →</a></section>
 </main>
-<footer><div class="footer-brand"><img src="assets/indio-logo.png" alt="Indio Informática"></div><div><p>15 años ayudándote a elegir tecnología.</p><p class="muted">Posadas · Misiones · Argentina</p><p class="muted"><a href="mailto:indio_electronica@hotmail.com">indio_electronica@hotmail.com</a></p><p class="muted">WhatsApp: <a href="https://wa.me/5492216148446" target="_blank" rel="noopener">+54 9 221 614-8446</a></p></div><div class="footer-links"><a href="#catalogo">Productos</a><a href="#categorias">Categorías</a><a href="#asesoramiento">WhatsApp</a></div></footer><a class="floating-wa" id="floatingWa" href="#" target="_blank" rel="noopener" aria-label="Hablar por WhatsApp">WhatsApp</a>
+<footer>
+  <div class="footer-brand"><img src="assets/indio-logo.png" alt="Indio Informática"></div>
+  <div><p>15 años ayudándote a elegir tecnología.</p><p class="muted">La Plata · Buenos Aires · Argentina</p><p class="muted"><a href="mailto:indio_electronica@hotmail.com">indio_electronica@hotmail.com</a></p><p class="muted">WhatsApp: <a href="https://wa.me/5492216102965" target="_blank" rel="noopener">+54 9 221 610-2965</a></p></div>
+  <div class="footer-links"><a href="#categorias">Categorías</a><a href="#marcas">Marcas</a><a href="#asesoramiento">WhatsApp</a><a href="https://www.instagram.com/indioinformatica/" target="_blank" rel="noopener">Instagram</a></div>
+</footer>
+<a class="floating-wa" id="floatingWa" href="#" target="_blank" rel="noopener" aria-label="Hablar por WhatsApp">WhatsApp</a>
 <script src="app.js"></script>
 </body></html>

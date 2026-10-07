@@ -2,41 +2,33 @@
   {
     "name": "Templado 9D",
     "category": "Apple > Accesorios",
-    "price": 5000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "templado-9d",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Templado 18D",
     "category": "Apple > Accesorios",
-    "price": 10000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "templado-18d",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Templado Anti Espia",
     "category": "Apple > Accesorios",
-    "price": 8000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "templado-anti-espia",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Templado Ringke Easy Slide Pack x 2",
     "category": "Apple > Accesorios",
-    "price": 30000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "templado-ringke-easy-slide-pack-x-2",
     "brand": "Ringke",
@@ -46,8 +38,6 @@
   {
     "name": "Clear Case iPhone",
     "category": "Apple > Accesorios",
-    "price": 15000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "clear-case-iphone",
     "brand": "Apple",
@@ -57,8 +47,6 @@
   {
     "name": "Magnetic Clear Case iphone",
     "category": "Apple > Accesorios",
-    "price": 20000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "magnetic-clear-case-iphone",
     "brand": "Apple",
@@ -68,19 +56,15 @@
   {
     "name": "Magnetic Case Colores",
     "category": "Apple > Accesorios",
-    "price": 20000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "magnetic-case-colores",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Funda EcoCuero MagFit MagSafe iPhone 16",
     "category": "Apple > Accesorios",
-    "price": 20000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-ecocuero-magfit-magsafe-iphone-16",
     "brand": "Apple",
@@ -90,8 +74,6 @@
   {
     "name": "Funda Ringke Fusion Clear",
     "category": "Apple > Accesorios",
-    "price": 35000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-ringke-fusion-clear",
     "brand": "Ringke",
@@ -101,8 +83,6 @@
   {
     "name": "Funda Ringke Onyx Black",
     "category": "Apple > Accesorios",
-    "price": null,
-    "currency": "ARS",
     "status": "Próximamente",
     "slug": "funda-ringke-onyx-black",
     "brand": "Ringke",
@@ -112,19 +92,15 @@
   {
     "name": "Funda Spigen Liquid Air Linea 17/18 Pro - 17/18 Pro Max",
     "category": "Apple > Accesorios",
-    "price": 60000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-spigen-liquid-air-linea-17-18-pro-17-18-pro-max",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Cargador 3 en 1 Ringke ( para cargar Airpods + Watch + iPhone )",
     "category": "Apple > Accesorios",
-    "price": 140000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "cargador-3-en-1-ringke-para-cargar-airpods-plus-watch-plus-iphone",
     "brand": "Ringke",
@@ -134,8 +110,6 @@
   {
     "name": "Cable Ringke Fast Charging USB to USB C",
     "category": "Apple > Accesorios",
-    "price": 15000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "cable-ringke-fast-charging-usb-to-usb-c",
     "brand": "Ringke",
@@ -145,8 +119,6 @@
   {
     "name": "Cable Ringke USB 3.2 USB C a USB C 1mts",
     "category": "Apple > Accesorios",
-    "price": 25000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "cable-ringke-usb-3-2-usb-c-a-usb-c-1mts",
     "brand": "Ringke",
@@ -156,8 +128,6 @@
   {
     "name": "Cable Ringke Usb C a Usb C 2 Metros",
     "category": "Apple > Accesorios",
-    "price": 25000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "cable-ringke-usb-c-a-usb-c-2-metros",
     "brand": "Ringke",
@@ -167,63 +137,51 @@
   {
     "name": "Cable Spigen Durasync Usb C A Usb C 1.5 Metros",
     "category": "Apple > Accesorios",
-    "price": 30000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "cable-spigen-durasync-usb-c-a-usb-c-1-5-metros",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "PowerBank Baseus EnerFill FM11 UltraMini Magnetic 10000mAh",
     "category": "Apple > Accesorios",
-    "price": 50000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "powerbank-baseus-enerfill-fm11-ultramini-magnetic-10000mah",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "🔌 Cable Mcdodo USB C a Lightning 4 en 1 60w",
     "category": "Apple > Accesorios",
-    "price": 20000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "cable-mcdodo-usb-c-a-lightning-4-en-1-60w",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "🔌 HUB Baseus 7 en 1 4K 60Hz",
     "category": "Apple > Accesorios",
-    "price": 45000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "hub-baseus-7-en-1-4k-60hz",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "🔌 HUB Baseus 11 en 1 4K 60Hz",
     "category": "Apple > Accesorios",
-    "price": 75000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "hub-baseus-11-en-1-4k-60hz",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "💼 TomToc Defender MacBook 13\" Gray",
     "category": "Apple > Accesorios",
-    "price": 60000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "tomtoc-defender-macbook-13-gray",
     "brand": "Tomtoc",
@@ -233,8 +191,6 @@
   {
     "name": "💼 TomToc Defender MacBook 13\" Black",
     "category": "Apple > Accesorios",
-    "price": 60000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "tomtoc-defender-macbook-13-black",
     "brand": "Tomtoc",
@@ -244,8 +200,6 @@
   {
     "name": "💼 TomToc Defender MacBook 14\" Black",
     "category": "Apple > Accesorios",
-    "price": 65000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "tomtoc-defender-macbook-14-black",
     "brand": "Tomtoc",
@@ -255,8 +209,6 @@
   {
     "name": "💼 TomToc Defender Kit ( Funda + Estuche ) Macbook 15\" Black",
     "category": "Apple > Accesorios",
-    "price": 70000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "tomtoc-defender-kit-funda-plus-estuche-macbook-15-black",
     "brand": "Tomtoc",
@@ -266,8 +218,6 @@
   {
     "name": "💼 TomToc Defender Kit ( Funda + Estuche ) Macbook 15\" Gray",
     "category": "Apple > Accesorios",
-    "price": 70000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "tomtoc-defender-kit-funda-plus-estuche-macbook-15-gray",
     "brand": "Tomtoc",
@@ -277,8 +227,6 @@
   {
     "name": "💼 TomToc Defender MacBook 16\" Black",
     "category": "Apple > Accesorios",
-    "price": 70000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "tomtoc-defender-macbook-16-black",
     "brand": "Tomtoc",
@@ -288,8 +236,6 @@
   {
     "name": "💼 TomToc Defender BriefCase Gray MacBook 14\"",
     "category": "Apple > Accesorios",
-    "price": 85000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "tomtoc-defender-briefcase-gray-macbook-14",
     "brand": "Tomtoc",
@@ -299,8 +245,6 @@
   {
     "name": "💼 TomToc Defender BriefCase Notebook 15.6\" a 16.2\"",
     "category": "Apple > Accesorios",
-    "price": null,
-    "currency": "ARS",
     "status": "Consultar",
     "slug": "tomtoc-defender-briefcase-notebook-15-6-a-16-2",
     "brand": "Tomtoc",
@@ -310,8 +254,6 @@
   {
     "name": "Apple AirPods 5 NC - NOVEDAD !",
     "category": "Apple > Audio",
-    "price": 240,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-airpods-5-nc-novedad",
     "brand": "Apple",
@@ -321,8 +263,6 @@
   {
     "name": "Apple AirPods PRO 3",
     "category": "Apple > Audio",
-    "price": 270,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-airpods-pro-3",
     "brand": "Apple",
@@ -332,8 +272,6 @@
   {
     "name": "Apple AirPods MAX 2 - NOVEDAD !",
     "category": "Apple > Audio",
-    "price": 630,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-airpods-max-2-novedad",
     "brand": "Apple",
@@ -343,8 +281,6 @@
   {
     "name": "Apple AirTag x 4",
     "category": "Apple > Accesorios",
-    "price": 120,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-airtag-x-4",
     "brand": "Apple",
@@ -354,8 +290,6 @@
   {
     "name": "Apple Cargador 20w ORIGINAL - Ficha 🇺🇸",
     "category": "Apple > Accesorios",
-    "price": 40,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-cargador-20w-original-ficha",
     "brand": "Apple",
@@ -365,8 +299,6 @@
   {
     "name": "Apple iPhone 15 128GB",
     "category": "Apple > iPhone",
-    "price": 770,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-15-128gb",
     "brand": "Apple",
@@ -376,8 +308,6 @@
   {
     "name": "Apple iPhone 16e 256Gb",
     "category": "Apple > iPhone",
-    "price": 730,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-16e-256gb",
     "brand": "Apple",
@@ -387,8 +317,6 @@
   {
     "name": "Apple iPhone 16 128GB",
     "category": "Apple > iPhone",
-    "price": null,
-    "currency": "ARS",
     "status": "Consultar",
     "slug": "apple-iphone-16-128gb",
     "brand": "Apple",
@@ -398,8 +326,6 @@
   {
     "name": "Apple iPhone 17e 256Gb",
     "category": "Apple > iPhone",
-    "price": 820,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-17e-256gb",
     "brand": "Apple",
@@ -409,8 +335,6 @@
   {
     "name": "Apple iPhone 17 256Gb",
     "category": "Apple > iPhone",
-    "price": 1040,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-17-256gb",
     "brand": "Apple",
@@ -420,8 +344,6 @@
   {
     "name": "Apple iPhone 17 PRO 256GB • Blue / Silver",
     "category": "Apple > iPhone",
-    "price": 1250,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-17-pro-256gb-blue-silver",
     "brand": "Apple",
@@ -431,8 +353,6 @@
   {
     "name": "Apple iPhone 17 PRO 512GB • Silver | Blue",
     "category": "Apple > iPhone",
-    "price": 1500,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-17-pro-512gb-silver-blue",
     "brand": "Apple",
@@ -442,8 +362,6 @@
   {
     "name": "Apple iPhone 17 PRO MAX 256GB • Silver | Blue",
     "category": "Apple > iPhone",
-    "price": 1350,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-17-pro-max-256gb-silver-blue",
     "brand": "Apple",
@@ -453,8 +371,6 @@
   {
     "name": "Apple iPhone 17 PRO MAX 512Gb • Silver | Blue",
     "category": "Apple > iPhone",
-    "price": 1600,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-17-pro-max-512gb-silver-blue",
     "brand": "Apple",
@@ -464,8 +380,6 @@
   {
     "name": "Apple iPhone 18 PRO 256GB",
     "category": "Apple > iPhone",
-    "price": 1400,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-18-pro-256gb",
     "brand": "Apple",
@@ -475,8 +389,6 @@
   {
     "name": "Apple iPhone 18 PRO 512GB",
     "category": "Apple > iPhone",
-    "price": 1650,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-18-pro-512gb",
     "brand": "Apple",
@@ -486,8 +398,6 @@
   {
     "name": "Apple iPhone 18 PRO MAX 256GB",
     "category": "Apple > iPhone",
-    "price": 1600,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-18-pro-max-256gb",
     "brand": "Apple",
@@ -497,8 +407,6 @@
   {
     "name": "Apple iPhone 18 PRO MAX 512Gb",
     "category": "Apple > iPhone",
-    "price": 1850,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-iphone-18-pro-max-512gb",
     "brand": "Apple",
@@ -508,8 +416,6 @@
   {
     "name": "Apple iPad A16 11\" 128GB",
     "category": "Apple > iPad",
-    "price": 540,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-ipad-a16-11-128gb",
     "brand": "Apple",
@@ -519,8 +425,6 @@
   {
     "name": "Apple iPad A16 11\" 128GB + Pencil USB C",
     "category": "Apple > iPad",
-    "price": 640,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-ipad-a16-11-128gb-plus-pencil-usb-c",
     "brand": "Apple",
@@ -530,8 +434,6 @@
   {
     "name": "\" Apple iPad A16 11\" 128GB Wifi + Cell + Funda con Teclado",
     "category": "Apple > Accesorios",
-    "price": 600,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-ipad-a16-11-128gb-wifi-plus-cell-plus-funda-con-teclado",
     "brand": "Apple",
@@ -541,8 +443,6 @@
   {
     "name": "\" Apple iPad A16 11\" 256GB Wifi + Cell + Funda con Teclado",
     "category": "Apple > Accesorios",
-    "price": 700,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-ipad-a16-11-256gb-wifi-plus-cell-plus-funda-con-teclado",
     "brand": "Apple",
@@ -552,8 +452,6 @@
   {
     "name": "Apple iPad AIR 11\" M4 128GB",
     "category": "Apple > iPad",
-    "price": 825,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-ipad-air-11-m4-128gb",
     "brand": "Apple",
@@ -563,8 +461,6 @@
   {
     "name": "Apple iPad AIR 11\" M4 256GB",
     "category": "Apple > iPad",
-    "price": 940,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-ipad-air-11-m4-256gb",
     "brand": "Apple",
@@ -574,8 +470,6 @@
   {
     "name": "Apple iPad AIR 13\" M4 128GB",
     "category": "Apple > iPad",
-    "price": null,
-    "currency": "ARS",
     "status": "Consultar",
     "slug": "apple-ipad-air-13-m4-128gb",
     "brand": "Apple",
@@ -585,8 +479,6 @@
   {
     "name": "Apple iPad AIR 13\" M4 256GB",
     "category": "Apple > iPad",
-    "price": 1150,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-ipad-air-13-m4-256gb",
     "brand": "Apple",
@@ -596,8 +488,6 @@
   {
     "name": "Apple iPad PRO M5 11\" 256GB",
     "category": "Apple > iPad",
-    "price": 1250,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-ipad-pro-m5-11-256gb",
     "brand": "Apple",
@@ -607,8 +497,6 @@
   {
     "name": "Apple iPad PRO M5 13\" 256GB",
     "category": "Apple > iPad",
-    "price": null,
-    "currency": "ARS",
     "status": "Consultar",
     "slug": "apple-ipad-pro-m5-13-256gb",
     "brand": "Apple",
@@ -618,8 +506,6 @@
   {
     "name": "Apple Pencil USB C",
     "category": "Apple > iPad",
-    "price": 120,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-pencil-usb-c",
     "brand": "Apple",
@@ -629,8 +515,6 @@
   {
     "name": "Apple Pencil PRO",
     "category": "Apple > iPad",
-    "price": 160,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-pencil-pro",
     "brand": "Apple",
@@ -640,8 +524,6 @@
   {
     "name": "Templado iPad",
     "category": "Apple > Accesorios",
-    "price": 20000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "templado-ipad",
     "brand": "Apple",
@@ -651,8 +533,6 @@
   {
     "name": "Funda iPad 10.2\" / 10.9\"",
     "category": "Apple > Accesorios",
-    "price": 30000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-ipad-10-2-10-9",
     "brand": "Apple",
@@ -662,8 +542,6 @@
   {
     "name": "Funda + Teclado iPad A16 11\"",
     "category": "Apple > Accesorios",
-    "price": 50000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-plus-teclado-ipad-a16-11",
     "brand": "Apple",
@@ -673,8 +551,6 @@
   {
     "name": "Funda + Teclado ESR Shift Horizontal / Vertical iPad A16 / 10ma",
     "category": "Apple > Accesorios",
-    "price": 130000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-plus-teclado-esr-shift-horizontal-vertical-ipad-a16-10ma",
     "brand": "ESR",
@@ -684,8 +560,6 @@
   {
     "name": "Funda + Teclado ESR Shift Horizontal / Vertical iPad AIR 11\" M3/M4",
     "category": "Apple > Accesorios",
-    "price": 130000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-plus-teclado-esr-shift-horizontal-vertical-ipad-air-11-m3-m4",
     "brand": "ESR",
@@ -695,8 +569,6 @@
   {
     "name": "Funda + Teclado ESR Shift Horizontal / Vertical iPad PRO M4/M5 11\"",
     "category": "Apple > Accesorios",
-    "price": 130000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-plus-teclado-esr-shift-horizontal-vertical-ipad-pro-m4-m5-11",
     "brand": "ESR",
@@ -706,8 +578,6 @@
   {
     "name": "Funda + Teclado ESR Shift Horizontal / Vertical iPad AIR M3/M4 13\"",
     "category": "Apple > Accesorios",
-    "price": 150000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-plus-teclado-esr-shift-horizontal-vertical-ipad-air-m3-m4-13",
     "brand": "ESR",
@@ -717,8 +587,6 @@
   {
     "name": "Funda + Teclado ESR Shift Horizontal / Vertical iPad PRO M4/M5 13\"",
     "category": "Apple > Accesorios",
-    "price": 150000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-plus-teclado-esr-shift-horizontal-vertical-ipad-pro-m4-m5-13",
     "brand": "ESR",
@@ -728,8 +596,6 @@
   {
     "name": "Apple Watch SE3 40mm ( Midnight | Starlight )",
     "category": "Apple > Apple Watch",
-    "price": 310,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-watch-se3-40mm-midnight-starlight",
     "brand": "Apple",
@@ -739,8 +605,6 @@
   {
     "name": "Apple Watch SE3 44mm",
     "category": "Apple > Apple Watch",
-    "price": 340,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-watch-se3-44mm",
     "brand": "Apple",
@@ -750,8 +614,6 @@
   {
     "name": "Apple Watch S11 42mm",
     "category": "Apple > Apple Watch",
-    "price": 430,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-watch-s11-42mm",
     "brand": "Apple",
@@ -761,8 +623,6 @@
   {
     "name": "Apple Watch S11 46mm",
     "category": "Apple > Apple Watch",
-    "price": 450,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-watch-s11-46mm",
     "brand": "Apple",
@@ -772,8 +632,6 @@
   {
     "name": "Apple Watch S12 42mm 🆕",
     "category": "Apple > Apple Watch",
-    "price": 510,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-watch-s12-42mm",
     "brand": "Apple",
@@ -783,8 +641,6 @@
   {
     "name": "Apple Watch S12 46mm 🆕",
     "category": "Apple > Apple Watch",
-    "price": 570,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-watch-s12-46mm",
     "brand": "Apple",
@@ -794,8 +650,6 @@
   {
     "name": "Apple Watch Ultra 3 49mm + Cell Black Titanium",
     "category": "Apple > Apple Watch",
-    "price": 815,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "apple-watch-ultra-3-49mm-plus-cell-black-titanium",
     "brand": "Apple",
@@ -805,8 +659,6 @@
   {
     "name": "Apple Watch Ultra 4 49mm + Cell Black Titanium 🆕",
     "category": "Apple > Apple Watch",
-    "price": null,
-    "currency": "ARS",
     "status": "Próximamente",
     "slug": "apple-watch-ultra-4-49mm-plus-cell-black-titanium",
     "brand": "Apple",
@@ -816,8 +668,6 @@
   {
     "name": "MacBook NEO 256Gb / 8Gb / A18 Pro",
     "category": "Apple > Mac",
-    "price": 850,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "macbook-neo-256gb-8gb-a18-pro",
     "brand": "Apple",
@@ -827,8 +677,6 @@
   {
     "name": "MacBook NEO 512Gb / 8Gb / A18 Pro / Touch ID",
     "category": "Apple > Mac",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "macbook-neo-512gb-8gb-a18-pro-touch-id",
     "brand": "Apple",
@@ -838,8 +686,6 @@
   {
     "name": "MacBook NEO 512Gb / 8Gb / A18 Pro / Touch ID",
     "category": "Apple > Mac",
-    "price": 990,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "macbook-neo-512gb-8gb-a18-pro-touch-id-2",
     "brand": "Apple",
@@ -849,8 +695,6 @@
   {
     "name": "\"💻 MacBook AIR M5 13\" 16Gb / 512Gb / 10 CPU / 8GPU",
     "category": "Apple > Mac",
-    "price": 1550,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "macbook-air-m5-13-16gb-512gb-10-cpu-8gpu",
     "brand": "Apple",
@@ -860,8 +704,6 @@
   {
     "name": "\"💻 MacBook AIR M5 13\" 16Gb / 1TB / 10 CPU / 8GPU",
     "category": "Apple > Mac",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "macbook-air-m5-13-16gb-1tb-10-cpu-8gpu",
     "brand": "Apple",
@@ -871,8 +713,6 @@
   {
     "name": "MacBook AIR M5 15\" 16GB / 512GB / 10 CPU / 10 GPU",
     "category": "Apple > Mac",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "macbook-air-m5-15-16gb-512gb-10-cpu-10-gpu",
     "brand": "Apple",
@@ -882,8 +722,6 @@
   {
     "name": "MacBook PRO M5 14\" 16Gb / 1TB / 10 CPU / 10 GPU - Español",
     "category": "Apple > Mac",
-    "price": 2300,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "macbook-pro-m5-14-16gb-1tb-10-cpu-10-gpu-espanol",
     "brand": "Apple",
@@ -893,8 +731,6 @@
   {
     "name": "MacBook Pro M5 PRO 14\" / 15CPU / 16GPU / 1TB / 24GB",
     "category": "Apple > Mac",
-    "price": 2750,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "macbook-pro-m5-pro-14-15cpu-16gpu-1tb-24gb",
     "brand": "Apple",
@@ -904,8 +740,6 @@
   {
     "name": "MacBook Pro M5 PRO MAX 14\" / 18CPU / 32GPU / 2TB / 36GB",
     "category": "Apple > Mac",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "macbook-pro-m5-pro-max-14-18cpu-32gpu-2tb-36gb",
     "brand": "Apple",
@@ -915,8 +749,6 @@
   {
     "name": "MacBook Pro M5 PRO 16\" / 18CPU / 20GPU / 1TB / 24Gb Space",
     "category": "Apple > Mac",
-    "price": 3200,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "macbook-pro-m5-pro-16-18cpu-20gpu-1tb-24gb-space",
     "brand": "Apple",
@@ -926,8 +758,6 @@
   {
     "name": "MacBook Pro M5 PRO MAX 16\" / 18CPU / 32GPU / 2TB / 36Gb",
     "category": "Apple > Mac",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "macbook-pro-m5-pro-max-16-18cpu-32gpu-2tb-36gb",
     "brand": "Apple",
@@ -937,30 +767,24 @@
   {
     "name": "Mac Mini M4 16Gb | 256Gb",
     "category": "Apple > Mac",
-    "price": 950,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "mac-mini-m4-16gb-256gb",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Mac Mini M4 16Gb | 512Gb",
     "category": "Apple > Mac",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "mac-mini-m4-16gb-512gb",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Monitor Samsung Flat Odyssey G4 G40H 27\"",
     "category": "Destacados > Monitores",
-    "price": 330,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "monitor-samsung-flat-odyssey-g4-g40h-27",
     "brand": "Samsung",
@@ -970,8 +794,6 @@
   {
     "name": "Monitor Samsung Odyssey Oled G9 49\" 240Hz",
     "category": "Destacados > Monitores",
-    "price": 1300,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "monitor-samsung-odyssey-oled-g9-49-240hz",
     "brand": "Samsung",
@@ -981,8 +803,6 @@
   {
     "name": "Xiaomi Note 15 Pro 8/256GB 5G NFC - Black",
     "category": "Destacados > Celulares",
-    "price": 360,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "xiaomi-note-15-pro-8-256gb-5g-nfc-black",
     "brand": "Xiaomi",
@@ -992,8 +812,6 @@
   {
     "name": "Xiaomi Poco M8 Pro 12GB/512GB",
     "category": "Destacados > Celulares",
-    "price": 400,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "xiaomi-poco-m8-pro-12gb-512gb",
     "brand": "Xiaomi",
@@ -1003,8 +821,6 @@
   {
     "name": "Xiaomi Poco X8 Pro 12Gb / 512Gb",
     "category": "Destacados > Celulares",
-    "price": 510,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "xiaomi-poco-x8-pro-12gb-512gb",
     "brand": "Xiaomi",
@@ -1014,8 +830,6 @@
   {
     "name": "Xiaomi Poco X8 Pro Max - 12+256GB 5G - Black",
     "category": "Destacados > Celulares",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "xiaomi-poco-x8-pro-max-12-plus-256gb-5g-black",
     "brand": "Xiaomi",
@@ -1025,8 +839,6 @@
   {
     "name": "Xiaomi Poco F8 Ultra 12+256GB 5G - Black",
     "category": "Destacados > Celulares",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "xiaomi-poco-f8-ultra-12-plus-256gb-5g-black",
     "brand": "Xiaomi",
@@ -1036,8 +848,6 @@
   {
     "name": "Xiaomi 17 12+512GB 5G",
     "category": "Destacados > Celulares",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "xiaomi-17-12-plus-512gb-5g",
     "brand": "Xiaomi",
@@ -1047,8 +857,6 @@
   {
     "name": "Motorola G77 8Gb+256Gb",
     "category": "Destacados > Celulares",
-    "price": 330,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "motorola-g77-8gb-plus-256gb",
     "brand": "Motorola",
@@ -1058,8 +866,6 @@
   {
     "name": "Motorola Edge 60 Pro 8Gb / 256Gb 5G",
     "category": "Destacados > Celulares",
-    "price": null,
-    "currency": "USD",
     "status": "Próximamente",
     "slug": "motorola-edge-60-pro-8gb-256gb-5g",
     "brand": "Motorola",
@@ -1069,8 +875,6 @@
   {
     "name": "Motorola Edge 60 Pro 12Gb / 512Gb 5G",
     "category": "Destacados > Celulares",
-    "price": null,
-    "currency": "USD",
     "status": "Próximamente",
     "slug": "motorola-edge-60-pro-12gb-512gb-5g",
     "brand": "Motorola",
@@ -1080,8 +884,6 @@
   {
     "name": "Motorola Edge 70 Fusion 8Gb+256Gb",
     "category": "Destacados > Celulares",
-    "price": 450,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "motorola-edge-70-fusion-8gb-plus-256gb",
     "brand": "Motorola",
@@ -1091,8 +893,6 @@
   {
     "name": "Google Pixel 10 PRO XL 16Gb / 256Gb",
     "category": "Destacados > Celulares",
-    "price": 1200,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "google-pixel-10-pro-xl-16gb-256gb",
     "brand": "Google",
@@ -1102,8 +902,6 @@
   {
     "name": "Samsung A37 8Gb / 256Gb",
     "category": "Destacados > Celulares",
-    "price": 420,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "samsung-a37-8gb-256gb",
     "brand": "Samsung",
@@ -1113,8 +911,6 @@
   {
     "name": "Samsung A57 5G 256Gb / 8Gb",
     "category": "Destacados > Celulares",
-    "price": 460,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "samsung-a57-5g-256gb-8gb",
     "brand": "Samsung",
@@ -1124,8 +920,6 @@
   {
     "name": "Samsung S25 Ultra 512Gb",
     "category": "Destacados > Celulares",
-    "price": 980,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "samsung-s25-ultra-512gb",
     "brand": "Samsung",
@@ -1135,8 +929,6 @@
   {
     "name": "Samsung S26 12GB / 256GB",
     "category": "Destacados > Celulares",
-    "price": 790,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "samsung-s26-12gb-256gb",
     "brand": "Samsung",
@@ -1146,8 +938,6 @@
   {
     "name": "Samsung S26 Plus 12GB / 256GB ( A PEDIDO )",
     "category": "Destacados > Celulares",
-    "price": 920,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "samsung-s26-plus-12gb-256gb-a-pedido",
     "brand": "Samsung",
@@ -1157,8 +947,6 @@
   {
     "name": "Samsung S26 Ultra 12GB / 256GB",
     "category": "Destacados > Celulares",
-    "price": 1050,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "samsung-s26-ultra-12gb-256gb",
     "brand": "Samsung",
@@ -1168,8 +956,6 @@
   {
     "name": "Samsung S26 Ultra 12GB / 512GB",
     "category": "Destacados > Celulares",
-    "price": 1200,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "samsung-s26-ultra-12gb-512gb",
     "brand": "Samsung",
@@ -1179,8 +965,6 @@
   {
     "name": "Samsung Z Flip 12Gb+512Gb ( A PEDIDO )",
     "category": "Destacados > Celulares",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "samsung-z-flip-12gb-plus-512gb-a-pedido",
     "brand": "Samsung",
@@ -1190,8 +974,6 @@
   {
     "name": "Samsung Z Fold 8 12Gb+512Gb ( A PEDIDO )",
     "category": "Destacados > Celulares",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "samsung-z-fold-8-12gb-plus-512gb-a-pedido",
     "brand": "Samsung",
@@ -1201,8 +983,6 @@
   {
     "name": "Samsung Z Fold 8 Ultra 12Gb+512Gb ( A PEDIDO )",
     "category": "Destacados > Celulares",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "samsung-z-fold-8-ultra-12gb-plus-512gb-a-pedido",
     "brand": "Samsung",
@@ -1212,8 +992,6 @@
   {
     "name": "Funda Ringke Clear Samsung S24 / A56",
     "category": "Destacados > Accesorios",
-    "price": null,
-    "currency": "USD",
     "status": "Próximamente",
     "slug": "funda-ringke-clear-samsung-s24-a56",
     "brand": "Samsung",
@@ -1223,8 +1001,6 @@
   {
     "name": "Funda Clear Samsung S26 / S26 Ultra + Templado",
     "category": "Destacados > Accesorios",
-    "price": 20000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "funda-clear-samsung-s26-s26-ultra-plus-templado",
     "brand": "Samsung",
@@ -1234,8 +1010,6 @@
   {
     "name": "Templado Ringke Easy Slide x2 Unidades",
     "category": "Destacados > Accesorios",
-    "price": null,
-    "currency": "USD",
     "status": "Próximamente",
     "slug": "templado-ringke-easy-slide-x2-unidades",
     "brand": "Ringke",
@@ -1245,8 +1019,6 @@
   {
     "name": "Samsung Cargador Original 25w",
     "category": "Destacados > Accesorios",
-    "price": 30,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "samsung-cargador-original-25w",
     "brand": "Samsung",
@@ -1256,8 +1028,6 @@
   {
     "name": "Garmin Watch Epix Pro (Gen 2) – Edición Zafiro | 42mm",
     "category": "Destacados > Smartwatch",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "garmin-watch-epix-pro-gen-2-edicion-zafiro-42mm",
     "brand": "Garmin",
@@ -1267,8 +1037,6 @@
   {
     "name": "Garmin Watch Epix Pro (Gen 2) – Edición Zafiro | 47mm",
     "category": "Destacados > Smartwatch",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "garmin-watch-epix-pro-gen-2-edicion-zafiro-47mm",
     "brand": "Garmin",
@@ -1278,8 +1046,6 @@
   {
     "name": "Garmin Watch Epix Pro (Gen 2) – Edición Zafiro | 51mm",
     "category": "Destacados > Smartwatch",
-    "price": 730,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "garmin-watch-epix-pro-gen-2-edicion-zafiro-51mm",
     "brand": "Garmin",
@@ -1289,8 +1055,6 @@
   {
     "name": "Garmin Watch Approach S70 42mm - Golf Watch",
     "category": "Destacados > Smartwatch",
-    "price": 630,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "garmin-watch-approach-s70-42mm-golf-watch",
     "brand": "Garmin",
@@ -1300,8 +1064,6 @@
   {
     "name": "Samsung A11 6GB+128GB 5G",
     "category": "Destacados > Celulares",
-    "price": 400,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "samsung-a11-6gb-plus-128gb-5g",
     "brand": "Samsung",
@@ -1311,8 +1073,6 @@
   {
     "name": "Samsung TAB S10 Lite 10.9\" 6Gb + 128Gb ( Pen + Funda Incl.)",
     "category": "Destacados > Tablets",
-    "price": 460,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "samsung-tab-s10-lite-10-9-6gb-plus-128gb-pen-plus-funda-incl",
     "brand": "Samsung",
@@ -1322,8 +1082,6 @@
   {
     "name": "Samsung Tab S10 FE 8Gb + 128Gb + Pen",
     "category": "Destacados > Tablets",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "samsung-tab-s10-fe-8gb-plus-128gb-plus-pen",
     "brand": "Samsung",
@@ -1333,8 +1091,6 @@
   {
     "name": "Samsung Tab S11 12Gb + 128Gb + Pencil",
     "category": "Destacados > Tablets",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "samsung-tab-s11-12gb-plus-128gb-plus-pencil",
     "brand": "Samsung",
@@ -1344,8 +1100,6 @@
   {
     "name": "Samsung Tab S11 Ultra 12Gb + 256Gb + Pen",
     "category": "Destacados > Tablets",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "samsung-tab-s11-ultra-12gb-plus-256gb-plus-pen",
     "brand": "Samsung",
@@ -1355,8 +1109,6 @@
   {
     "name": "Lenovo IdeaTab Plus 12.1\" 8Gb + 256Gb +Pen+Keyboard Case",
     "category": "Destacados > Tablets",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "lenovo-ideatab-plus-12-1-8gb-plus-256gb-plus-pen-plus-keyboard-case",
     "brand": "Lenovo",
@@ -1366,8 +1118,6 @@
   {
     "name": "Parlante JBL PartyBox 520",
     "category": "Destacados > Parlantes",
-    "price": 900,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "parlante-jbl-partybox-520",
     "brand": "JBL",
@@ -1377,8 +1127,6 @@
   {
     "name": "Parlante JBL PartyBox 720",
     "category": "Destacados > Parlantes",
-    "price": 1070,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "parlante-jbl-partybox-720",
     "brand": "JBL",
@@ -1388,52 +1136,42 @@
   {
     "name": "Joystick PS5 colores Nuevos",
     "category": "Destacados > Consolas",
-    "price": 110,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "joystick-ps5-colores-nuevos",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Consola PS5 Slim Digital 825Gb OFERTA!!!",
     "category": "Destacados > Consolas",
-    "price": 750,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "consola-ps5-slim-digital-825gb-oferta",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Consola PS5 Slim 1TB Lectora",
     "category": "Destacados > Consolas",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "consola-ps5-slim-1tb-lectora",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Consola PS5 PRO 2TB",
     "category": "Destacados > Consolas",
-    "price": 1350,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "consola-ps5-pro-2tb",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Sony PS VR 2",
     "category": "Destacados > Accesorios",
-    "price": 570,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sony-ps-vr-2",
     "brand": "Sony",
@@ -1443,8 +1181,6 @@
   {
     "name": "Nintendo Switch Oled 64GB Neón",
     "category": "Destacados > Consolas",
-    "price": 470,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nintendo-switch-oled-64gb-neon",
     "brand": "Nintendo",
@@ -1454,8 +1190,6 @@
   {
     "name": "Nintendo Switch Oled 64GB White + Mario Wonder",
     "category": "Destacados > Consolas",
-    "price": 490,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nintendo-switch-oled-64gb-white-plus-mario-wonder",
     "brand": "Nintendo",
@@ -1465,8 +1199,6 @@
   {
     "name": "Nintendo Switch 2 256Gb Americana",
     "category": "Destacados > Consolas",
-    "price": 670,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nintendo-switch-2-256gb-americana",
     "brand": "Nintendo",
@@ -1476,8 +1208,6 @@
   {
     "name": "Nintendo Switch 2 256Gb Choose you Game 🇺🇸",
     "category": "Destacados > Consolas",
-    "price": 730,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nintendo-switch-2-256gb-choose-you-game",
     "brand": "Nintendo",
@@ -1487,8 +1217,6 @@
   {
     "name": "Joystick Xbox One/S/X",
     "category": "Destacados > Consolas",
-    "price": 90,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "joystick-xbox-one-s-x",
     "brand": "Xbox",
@@ -1498,8 +1226,6 @@
   {
     "name": "Consola XBOX Series S 512Gb",
     "category": "Destacados > Consolas",
-    "price": 660,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "consola-xbox-series-s-512gb",
     "brand": "Xbox",
@@ -1509,8 +1235,6 @@
   {
     "name": "Consola XBOX Series S 1TB",
     "category": "Destacados > Consolas",
-    "price": 730,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "consola-xbox-series-s-1tb",
     "brand": "Xbox",
@@ -1520,8 +1244,6 @@
   {
     "name": "Consola XBOX Series X 1TB White Digital",
     "category": "Destacados > Consolas",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "consola-xbox-series-x-1tb-white-digital",
     "brand": "Xbox",
@@ -1531,8 +1253,6 @@
   {
     "name": "Consola XBOX Serie X 1TB Black Física",
     "category": "Destacados > Consolas",
-    "price": 1170,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "consola-xbox-serie-x-1tb-black-fisica",
     "brand": "Xbox",
@@ -1542,8 +1262,6 @@
   {
     "name": "MOZA R3 Racing Bundle ( Base R3 DD + Volante ES Lite + Pedales SR-P Lite +Table Clamp )",
     "category": "Destacados > Sim Racing",
-    "price": null,
-    "currency": "USD",
     "status": "Próximamente",
     "slug": "moza-r3-racing-bundle-base-r3-dd-plus-volante-es-lite-plus-pedales-sr-p-lite-plus-table-clamp",
     "brand": "MOZA",
@@ -1553,8 +1271,6 @@
   {
     "name": "MOZA R5 Racing Bundle ( Base Direct Drive R5 + Volante ES Steering Wheel + Pedales SR-P Lite )",
     "category": "Destacados > Sim Racing",
-    "price": 935000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "moza-r5-racing-bundle-base-direct-drive-r5-plus-volante-es-steering-wheel-plus-pedales-sr-p-lite",
     "brand": "MOZA",
@@ -1564,8 +1280,6 @@
   {
     "name": "📱Zhiyun Smooth 5S AI PRO",
     "category": "Destacados > Estabilizadores",
-    "price": 370000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "zhiyun-smooth-5s-ai-pro",
     "brand": "Zhiyun",
@@ -1575,8 +1289,6 @@
   {
     "name": "📱DJI Osmo Mobile 8P Standard Combo",
     "category": "Destacados > Estabilizadores",
-    "price": 250,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-osmo-mobile-8p-standard-combo",
     "brand": "DJI",
@@ -1586,8 +1298,6 @@
   {
     "name": "📱DJI Osmo Mobile 8P Creator Combo",
     "category": "Destacados > Estabilizadores",
-    "price": 330,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-osmo-mobile-8p-creator-combo",
     "brand": "DJI",
@@ -1597,52 +1307,42 @@
   {
     "name": "INSTA 360 Go 3S 128GB",
     "category": "Destacados > Cámaras de acción",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "insta-360-go-3s-128gb",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "INSTA 360 Go Ultra Creator Bundle",
     "category": "Destacados > Cámaras de acción",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "insta-360-go-ultra-creator-bundle",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "INSTA 360 Ace Pro 2",
     "category": "Destacados > Cámaras de acción",
-    "price": 550,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "insta-360-ace-pro-2",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "INSTA 360 X5",
     "category": "Destacados > Cámaras de acción",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "insta-360-x5",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "GoPro Hero 13 Black",
     "category": "Destacados > Cámaras de acción",
-    "price": 450,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "gopro-hero-13-black",
     "brand": "GoPro",
@@ -1652,8 +1352,6 @@
   {
     "name": "DJI Osmo Nano 128GB",
     "category": "Destacados > Accesorios",
-    "price": 480,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-osmo-nano-128gb",
     "brand": "DJI",
@@ -1663,8 +1361,6 @@
   {
     "name": "DJI Osmo 360 Adventure Combo",
     "category": "Destacados > Cámaras de acción",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "dji-osmo-360-adventure-combo",
     "brand": "DJI",
@@ -1674,8 +1370,6 @@
   {
     "name": "DJI Osmo Pocket 4 Creator Combo",
     "category": "Destacados > Cámaras de acción",
-    "price": 770,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-osmo-pocket-4-creator-combo",
     "brand": "DJI",
@@ -1685,8 +1379,6 @@
   {
     "name": "DJI Osmo Pocket 4P Standard Combo",
     "category": "Destacados > Cámaras de acción",
-    "price": 890,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-osmo-pocket-4p-standard-combo",
     "brand": "DJI",
@@ -1696,8 +1388,6 @@
   {
     "name": "DJI Osmo Pocket 4P Vlog Combo",
     "category": "Destacados > Cámaras de acción",
-    "price": 990,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-osmo-pocket-4p-vlog-combo",
     "brand": "DJI",
@@ -1707,8 +1397,6 @@
   {
     "name": "DJI Osmo Action 5 PRO Adventure Combo",
     "category": "Destacados > Cámaras de acción",
-    "price": 600,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-osmo-action-5-pro-adventure-combo",
     "brand": "DJI",
@@ -1718,8 +1406,6 @@
   {
     "name": "DJI Osmo Action 6 PRO Adventure Combo",
     "category": "Destacados > Cámaras de acción",
-    "price": 710,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-osmo-action-6-pro-adventure-combo",
     "brand": "DJI",
@@ -1729,8 +1415,6 @@
   {
     "name": "DJI MIC MINI (2TX + 1RX + Charging case)",
     "category": "Destacados > Micrófonos",
-    "price": 150,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-mic-mini-2tx-plus-1rx-plus-charging-case",
     "brand": "DJI",
@@ -1740,8 +1424,6 @@
   {
     "name": "DJI MIC 3 TRANS. X2 + RECEIVER X1 + CHARGING CASE",
     "category": "Destacados > Micrófonos",
-    "price": 400,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-mic-3-trans-x2-plus-receiver-x1-plus-charging-case",
     "brand": "DJI",
@@ -1751,8 +1433,6 @@
   {
     "name": "DJI Neo 2 FMC - Oferta LIMITADA",
     "category": "Destacados > Drones",
-    "price": 550,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-neo-2-fmc-oferta-limitada",
     "brand": "DJI",
@@ -1762,8 +1442,6 @@
   {
     "name": "DJI Neo 2 FMC Motion ( control RC 3 + Gafas N3 )",
     "category": "Destacados > Drones",
-    "price": 850,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-neo-2-fmc-motion-control-rc-3-plus-gafas-n3",
     "brand": "DJI",
@@ -1773,8 +1451,6 @@
   {
     "name": "DJI Avata 2 + Fly Smart Combo ( 3 Batt + Drone + Goggles N3 + RCM3 ) OFERTA!!!",
     "category": "Destacados > Drones",
-    "price": 1100,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-avata-2-plus-fly-smart-combo-3-batt-plus-drone-plus-goggles-n3-plus-rcm3-oferta",
     "brand": "DJI",
@@ -1784,8 +1460,6 @@
   {
     "name": "DJI Mini 5 PRO FMC Plus - Oferta !",
     "category": "Destacados > Drones",
-    "price": 1350,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-mini-5-pro-fmc-plus-oferta",
     "brand": "DJI",
@@ -1795,8 +1469,6 @@
   {
     "name": "DJI Avata 360 + Fly More Combo",
     "category": "Destacados > Drones",
-    "price": 1350,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dji-avata-360-plus-fly-more-combo",
     "brand": "DJI",
@@ -1806,8 +1478,6 @@
   {
     "name": "DJI MAVIC 4 PRO FMC RC2",
     "category": "Destacados > Drones",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "dji-mavic-4-pro-fmc-rc2",
     "brand": "DJI",
@@ -1817,8 +1487,6 @@
   {
     "name": "Notebook Asus VivoBook Go",
     "category": "Notebooks > Office / Estudio",
-    "price": 610,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-asus-vivobook-go",
     "brand": "ASUS",
@@ -1828,8 +1496,6 @@
   {
     "name": "Notebook Acer Aspire Go 15 AG15",
     "category": "Notebooks > Office / Estudio",
-    "price": 750,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-acer-aspire-go-15-ag15",
     "brand": "Acer",
@@ -1839,8 +1505,6 @@
   {
     "name": "Notebook HP 15-FC0287",
     "category": "Notebooks > Office / Estudio",
-    "price": 850,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-hp-15-fc0287",
     "brand": "HP",
@@ -1850,8 +1514,6 @@
   {
     "name": "Notebook ASUS Vivobook 16",
     "category": "Notebooks > Office / Estudio",
-    "price": 880,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-asus-vivobook-16",
     "brand": "ASUS",
@@ -1861,8 +1523,6 @@
   {
     "name": "Dell 15 DC15255",
     "category": "Notebooks > Office / Estudio",
-    "price": 920,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "dell-15-dc15255",
     "brand": "Dell",
@@ -1872,8 +1532,6 @@
   {
     "name": "HP OmniBook 3 16-bu0305dx",
     "category": "Notebooks > Office / Estudio",
-    "price": 800,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "hp-omnibook-3-16-bu0305dx",
     "brand": "HP",
@@ -1883,8 +1541,6 @@
   {
     "name": "HP OmniBook 3 17-DG0107DX",
     "category": "Notebooks > Office / Estudio",
-    "price": 990,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "hp-omnibook-3-17-dg0107dx",
     "brand": "HP",
@@ -1894,8 +1550,6 @@
   {
     "name": "HP OmniBook X Flip 2-in-1 16”",
     "category": "Notebooks > Office / Estudio",
-    "price": 1100,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "hp-omnibook-x-flip-2-in-1-16",
     "brand": "HP",
@@ -1905,8 +1559,6 @@
   {
     "name": "Notebook Gamer MSI Thin 15",
     "category": "Notebooks > Gaming",
-    "price": 1300,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-msi-thin-15",
     "brand": "MSI",
@@ -1916,8 +1568,6 @@
   {
     "name": "Notebook Gamer Lenovo LOQ 15ARP10E",
     "category": "Notebooks > Gaming",
-    "price": 1350,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-lenovo-loq-15arp10e",
     "brand": "Lenovo",
@@ -1927,8 +1577,6 @@
   {
     "name": "Notebook Gamer HP VICTUS 15-fb3093dx",
     "category": "Notebooks > Gaming",
-    "price": 1350,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-hp-victus-15-fb3093dx",
     "brand": "HP",
@@ -1938,8 +1586,6 @@
   {
     "name": "Notebook Gamer ASUS TUF A16",
     "category": "Notebooks > Gaming",
-    "price": 1350,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-asus-tuf-a16",
     "brand": "ASUS",
@@ -1949,8 +1595,6 @@
   {
     "name": "Notebook Gamer MSI KATANA 15 HX",
     "category": "Notebooks > Gaming",
-    "price": 1850,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-msi-katana-15-hx",
     "brand": "MSI",
@@ -1960,8 +1604,6 @@
   {
     "name": "Notebook Gamer ASUS TUF Gaming A18",
     "category": "Notebooks > Gaming",
-    "price": 1900,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-asus-tuf-gaming-a18",
     "brand": "ASUS",
@@ -1971,19 +1613,15 @@
   {
     "name": "Notebook Gamer GIGABYTE Gaming A16",
     "category": "Notebooks > Gaming",
-    "price": 1900,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-gigabyte-gaming-a16",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Notebook Gamer ASUS V16",
     "category": "Notebooks > Gaming",
-    "price": 1900,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-asus-v16",
     "brand": "ASUS",
@@ -1993,8 +1631,6 @@
   {
     "name": "Notebook Gamer HP OMEN 16",
     "category": "Notebooks > Gaming",
-    "price": 2150,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-hp-omen-16",
     "brand": "HP",
@@ -2004,19 +1640,15 @@
   {
     "name": "Notebook Gamer GIGABYTE Gaming A16",
     "category": "Notebooks > Gaming",
-    "price": 2200,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-gigabyte-gaming-a16-2",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Notebook Gamer Lenovo LOQ Essential 15",
     "category": "Notebooks > Gaming",
-    "price": 2200,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-lenovo-loq-essential-15",
     "brand": "Lenovo",
@@ -2026,8 +1658,6 @@
   {
     "name": "Notebook Gamer Lenovo Legion 5 (Gen 11 / 15AGP11)",
     "category": "Notebooks > Gaming",
-    "price": 2250,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-lenovo-legion-5-gen-11-15agp11",
     "brand": "Lenovo",
@@ -2037,8 +1667,6 @@
   {
     "name": "Notebook Gamer Lenovo Legion 5",
     "category": "Notebooks > Gaming",
-    "price": 2450,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "notebook-gamer-lenovo-legion-5",
     "brand": "Lenovo",
@@ -2048,8 +1676,6 @@
   {
     "name": "Sony Cinema FX30 Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-cinema-fx30-body",
     "brand": "Sony",
@@ -2059,8 +1685,6 @@
   {
     "name": "Sony Cinema FX2 Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-cinema-fx2-body",
     "brand": "Sony",
@@ -2070,8 +1694,6 @@
   {
     "name": "Sony Cinema FX3 Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-cinema-fx3-body",
     "brand": "Sony",
@@ -2081,8 +1703,6 @@
   {
     "name": "Sony ZVE10 II Doble Kit",
     "category": "Fotografía > Cámaras > Sony",
-    "price": 1450,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sony-zve10-ii-doble-kit",
     "brand": "Sony",
@@ -2092,8 +1712,6 @@
   {
     "name": "Sony A6400 Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a6400-body",
     "brand": "Sony",
@@ -2103,8 +1721,6 @@
   {
     "name": "Sony A6400 KIT 16-50mm",
     "category": "Fotografía > Cámaras > Sony",
-    "price": 1000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sony-a6400-kit-16-50mm",
     "brand": "Sony",
@@ -2114,8 +1730,6 @@
   {
     "name": "Sony A6400 Doble Kit",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a6400-doble-kit",
     "brand": "Sony",
@@ -2125,8 +1739,6 @@
   {
     "name": "Sony A6700 Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": 1450,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sony-a6700-body",
     "brand": "Sony",
@@ -2136,8 +1748,6 @@
   {
     "name": "Sony A6700 Kit 16-50mm",
     "category": "Fotografía > Cámaras > Sony",
-    "price": 1650,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sony-a6700-kit-16-50mm",
     "brand": "Sony",
@@ -2147,8 +1757,6 @@
   {
     "name": "Sony A6700 Kit 18-135mm",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a6700-kit-18-135mm",
     "brand": "Sony",
@@ -2158,8 +1766,6 @@
   {
     "name": "Sony A7 III Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": 1450,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sony-a7-iii-body",
     "brand": "Sony",
@@ -2169,8 +1775,6 @@
   {
     "name": "Sony A7 III Kit 28-70mm",
     "category": "Fotografía > Cámaras > Sony",
-    "price": 1750,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sony-a7-iii-kit-28-70mm",
     "brand": "Sony",
@@ -2180,8 +1784,6 @@
   {
     "name": "Sony A7 IV Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a7-iv-body",
     "brand": "Sony",
@@ -2191,8 +1793,6 @@
   {
     "name": "Sony A7 IV Kit 28-70mm",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a7-iv-kit-28-70mm",
     "brand": "Sony",
@@ -2202,8 +1802,6 @@
   {
     "name": "Sony A7 V Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a7-v-body",
     "brand": "Sony",
@@ -2213,8 +1811,6 @@
   {
     "name": "Sony A7CII Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a7cii-body",
     "brand": "Sony",
@@ -2224,8 +1820,6 @@
   {
     "name": "Sony A7CII Kit 28-60",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a7cii-kit-28-60",
     "brand": "Sony",
@@ -2235,8 +1829,6 @@
   {
     "name": "Sony A7R III Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a7r-iii-body",
     "brand": "Sony",
@@ -2246,8 +1838,6 @@
   {
     "name": "Sony A7R IV Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a7r-iv-body",
     "brand": "Sony",
@@ -2257,8 +1847,6 @@
   {
     "name": "Sony A7R V Body",
     "category": "Fotografía > Cámaras > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "sony-a7r-v-body",
     "brand": "Sony",
@@ -2268,8 +1856,6 @@
   {
     "name": "Bateria Sony NP-FW50",
     "category": "Fotografía > Accesorios > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "bateria-sony-np-fw50",
     "brand": "Sony",
@@ -2279,8 +1865,6 @@
   {
     "name": "Bateria Sony NP-FZ100",
     "category": "Fotografía > Accesorios > Sony",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "bateria-sony-np-fz100",
     "brand": "Sony",
@@ -2290,8 +1874,6 @@
   {
     "name": "SmallRig NP-F100 ( Cargador + 2 Baterias )",
     "category": "Fotografía > SONY - Garantia 6 Meses",
-    "price": 160000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "smallrig-np-f100-cargador-plus-2-baterias",
     "brand": "SmallRig",
@@ -2301,8 +1883,6 @@
   {
     "name": "Sigma 12mm f/1.4 DC DN Contemporary",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 820,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-12mm-f-1-4-dc-dn-contemporary",
     "brand": "Sigma",
@@ -2312,8 +1892,6 @@
   {
     "name": "Sigma 16mm f/1.4 DC DN Contemporary",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 560,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-16mm-f-1-4-dc-dn-contemporary",
     "brand": "Sigma",
@@ -2323,8 +1901,6 @@
   {
     "name": "Sigma 28mm f/1.4 DG HSM ART",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 770,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-28mm-f-1-4-dg-hsm-art",
     "brand": "Sigma",
@@ -2334,8 +1910,6 @@
   {
     "name": "Sigma 35mm f/1.4 DG DN ART",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 900,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-35mm-f-1-4-dg-dn-art",
     "brand": "Sigma",
@@ -2345,8 +1919,6 @@
   {
     "name": "Sigma 50mm f/1.4 DG DN ART",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 950,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-50mm-f-1-4-dg-dn-art",
     "brand": "Sigma",
@@ -2356,8 +1928,6 @@
   {
     "name": "Sigma 85mm f/1.4 DG DN ART",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 1200,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-85mm-f-1-4-dg-dn-art",
     "brand": "Sigma",
@@ -2367,8 +1937,6 @@
   {
     "name": "Sigma 105mm f/2.8 DG DN ART Macro",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 900,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-105mm-f-2-8-dg-dn-art-macro",
     "brand": "Sigma",
@@ -2378,8 +1946,6 @@
   {
     "name": "Sigma 16-28mm f/2.8 DG Contemporary",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 1000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-16-28mm-f-2-8-dg-contemporary",
     "brand": "Sigma",
@@ -2389,8 +1955,6 @@
   {
     "name": "Sigma 16-300mm f/3.5-6.7 Contemporary",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 990,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-16-300mm-f-3-5-6-7-contemporary",
     "brand": "Sigma",
@@ -2400,8 +1964,6 @@
   {
     "name": "Sigma 18-50mm f/2.8 DC DN Contemporary",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 730,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-18-50mm-f-2-8-dc-dn-contemporary",
     "brand": "Sigma",
@@ -2411,8 +1973,6 @@
   {
     "name": "Sigma 100-400mm f/5-6.3 DG HSM Contemporary",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 1100,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-100-400mm-f-5-6-3-dg-hsm-contemporary",
     "brand": "Sigma",
@@ -2422,8 +1982,6 @@
   {
     "name": "Tamron 11-20mm f/2.8 DI III A RXD",
     "category": "Fotografía > Lentes > Tamron",
-    "price": 660,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "tamron-11-20mm-f-2-8-di-iii-a-rxd",
     "brand": "Tamron",
@@ -2433,8 +1991,6 @@
   {
     "name": "Tamron 18-300mm f/3.5-6.3 DI II A VC VXD",
     "category": "Fotografía > Lentes > Tamron",
-    "price": 830,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "tamron-18-300mm-f-3-5-6-3-di-ii-a-vc-vxd",
     "brand": "Tamron",
@@ -2444,8 +2000,6 @@
   {
     "name": "Tamron 28-300mm f/4-7.1 III SONY",
     "category": "Fotografía > Cámaras > Sony",
-    "price": 1100,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "tamron-28-300mm-f-4-7-1-iii-sony",
     "brand": "Tamron",
@@ -2455,8 +2009,6 @@
   {
     "name": "Tamron 50-300mm f/5-6.3 DI III SONY",
     "category": "Fotografía > Cámaras > Sony",
-    "price": 1050,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "tamron-50-300mm-f-5-6-3-di-iii-sony",
     "brand": "Tamron",
@@ -2466,8 +2018,6 @@
   {
     "name": "Lexar SDXC Silver Plus 64GB U3 V30 R 255 MB/s² // W 135 MB/s²",
     "category": "Fotografía > Memorias / Almacenamiento",
-    "price": 70000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "lexar-sdxc-silver-plus-64gb-u3-v30-r-255-mb-s2-w-135-mb-s2",
     "brand": "Lexar",
@@ -2477,8 +2027,6 @@
   {
     "name": "Lexar CFexpress Tipo A 4.0 SILVER 256GB Sony (lectura hasta 1750MB/s - escritura hasta 1650MB/s)",
     "category": "Fotografía > Cámaras > Sony",
-    "price": 350000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "lexar-cfexpress-tipo-a-4-0-silver-256gb-sony-lectura-hasta-1750mb-s-escritura-hasta-1650mb-s",
     "brand": "Lexar",
@@ -2488,8 +2036,6 @@
   {
     "name": "Sandisk Extreme Go SD 128Gb U3 V30 R 250MB/s // W 120MB/s",
     "category": "Fotografía > Memorias / Almacenamiento",
-    "price": 115000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "sandisk-extreme-go-sd-128gb-u3-v30-r-250mb-s-w-120mb-s",
     "brand": "SanDisk",
@@ -2499,8 +2045,6 @@
   {
     "name": "Sandisk Extreme Pro Micro SD 128Gb U3 V30 R 200MB/s // W 90MB/s",
     "category": "Fotografía > Memorias / Almacenamiento",
-    "price": 110000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "sandisk-extreme-pro-micro-sd-128gb-u3-v30-r-200mb-s-w-90mb-s",
     "brand": "SanDisk",
@@ -2510,8 +2054,6 @@
   {
     "name": "Sandisk Extreme Pro CFexpress 4.0 Tipo B 128GB (lectura 3700MB/s - Escritura 3500MB/s)",
     "category": "Fotografía > Memorias / Almacenamiento",
-    "price": 550000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "sandisk-extreme-pro-cfexpress-4-0-tipo-b-128gb-lectura-3700mb-s-escritura-3500mb-s",
     "brand": "SanDisk",
@@ -2521,8 +2063,6 @@
   {
     "name": "Sandisk Extreme Pro CFexpress 4.0 Tipo B 256GB (lectura 1700MB/s - Escritura 1200MB/s)",
     "category": "Fotografía > Memorias / Almacenamiento",
-    "price": 700000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "sandisk-extreme-pro-cfexpress-4-0-tipo-b-256gb-lectura-1700mb-s-escritura-1200mb-s",
     "brand": "SanDisk",
@@ -2532,8 +2072,6 @@
   {
     "name": "Sandisk PRO Cinema 4.0 Tipo A 480GB (lectura 1800MB/s - Escritura 1650MB/s)",
     "category": "Fotografía > Memorias / Almacenamiento",
-    "price": 1000000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "sandisk-pro-cinema-4-0-tipo-a-480gb-lectura-1800mb-s-escritura-1650mb-s",
     "brand": "SanDisk",
@@ -2543,8 +2081,6 @@
   {
     "name": "Disco Externo Sandisk Extreme 2TB 1050/1000",
     "category": "Fotografía > Memorias / Almacenamiento",
-    "price": 380,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "disco-externo-sandisk-extreme-2tb-1050-1000",
     "brand": "SanDisk",
@@ -2554,8 +2090,6 @@
   {
     "name": "Nikon Coolpix P950 - OFERTA!",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "nikon-coolpix-p950-oferta",
     "brand": "Nikon",
@@ -2565,8 +2099,6 @@
   {
     "name": "Nikon D7500 Kit 18-140",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 1200,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-d7500-kit-18-140",
     "brand": "Nikon",
@@ -2576,8 +2108,6 @@
   {
     "name": "Nikon Z50 II Kit 16-50mm",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 1250,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z50-ii-kit-16-50mm",
     "brand": "Nikon",
@@ -2587,8 +2117,6 @@
   {
     "name": "Nikon Z50 II Kit 16-50mm + 50-250mm",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 1550,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z50-ii-kit-16-50mm-plus-50-250mm",
     "brand": "Nikon",
@@ -2598,8 +2126,6 @@
   {
     "name": "Nikon ZFC Kit",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "nikon-zfc-kit",
     "brand": "Nikon",
@@ -2609,8 +2135,6 @@
   {
     "name": "Nikon Z5 II Body Español",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 1750,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z5-ii-body-espanol",
     "brand": "Nikon",
@@ -2620,8 +2144,6 @@
   {
     "name": "Nikon Z5 II Kit 24-200",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "nikon-z5-ii-kit-24-200",
     "brand": "Nikon",
@@ -2631,8 +2153,6 @@
   {
     "name": "Nikon Z5 II Kit 24-70",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "nikon-z5-ii-kit-24-70",
     "brand": "Nikon",
@@ -2642,8 +2162,6 @@
   {
     "name": "Nikon Z6 II Body • Español",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 2000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z6-ii-body-espanol",
     "brand": "Nikon",
@@ -2653,8 +2171,6 @@
   {
     "name": "Nikon Z6 II Kit 24-70mm",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "nikon-z6-ii-kit-24-70mm",
     "brand": "Nikon",
@@ -2664,8 +2180,6 @@
   {
     "name": "Nikon Z6 III Body - Español",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 2450,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z6-iii-body-espanol",
     "brand": "Nikon",
@@ -2675,8 +2189,6 @@
   {
     "name": "Nikon Z6 III Kit 24-105mm",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "nikon-z6-iii-kit-24-105mm",
     "brand": "Nikon",
@@ -2686,8 +2198,6 @@
   {
     "name": "Nikon Z7 II Body Español",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "nikon-z7-ii-body-espanol",
     "brand": "Nikon",
@@ -2697,8 +2207,6 @@
   {
     "name": "Nikon Z8 Body",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 3650,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z8-body",
     "brand": "Nikon",
@@ -2708,8 +2216,6 @@
   {
     "name": "Nikon Z8 Kit 24-120mm f/4",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 4500,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z8-kit-24-120mm-f-4",
     "brand": "Nikon",
@@ -2719,8 +2225,6 @@
   {
     "name": "Nikon Z9 Body Español",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "nikon-z9-body-espanol",
     "brand": "Nikon",
@@ -2730,8 +2234,6 @@
   {
     "name": "Nikon ZR 6K",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 2600,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-zr-6k",
     "brand": "Nikon",
@@ -2741,8 +2243,6 @@
   {
     "name": "Nikon ZF Body",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "nikon-zf-body",
     "brand": "Nikon",
@@ -2752,8 +2252,6 @@
   {
     "name": "Nikon FTZ II Adapter",
     "category": "Fotografía > Accesorios / Lentes > Nikon",
-    "price": 250,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-ftz-ii-adapter",
     "brand": "Nikon",
@@ -2763,8 +2261,6 @@
   {
     "name": "Nikon EN-EL25",
     "category": "Fotografía > Accesorios / Lentes > Nikon",
-    "price": 90,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-en-el25",
     "brand": "Nikon",
@@ -2774,8 +2270,6 @@
   {
     "name": "Nikon EN-EL 15C",
     "category": "Fotografía > Accesorios / Lentes > Nikon",
-    "price": 80,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-en-el-15c",
     "brand": "Nikon",
@@ -2785,8 +2279,6 @@
   {
     "name": "Nikon Cargador MH32 ( P/ Bateria EnEl25)",
     "category": "Fotografía > Accesorios / Lentes > Nikon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "nikon-cargador-mh32-p-bateria-enel25",
     "brand": "Nikon",
@@ -2796,8 +2288,6 @@
   {
     "name": "Nikon AF-S DX 40mm f/2.8 G Micro",
     "category": "Fotografía > Accesorios / Lentes > Nikon",
-    "price": 360,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-af-s-dx-40mm-f-2-8-g-micro",
     "brand": "Nikon",
@@ -2807,8 +2297,6 @@
   {
     "name": "Nikon Z 40mm f/2",
     "category": "Fotografía > Accesorios / Lentes > Nikon",
-    "price": 330,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z-40mm-f-2",
     "brand": "Nikon",
@@ -2818,8 +2306,6 @@
   {
     "name": "Nikon AF-S 50mm f/1.8 G",
     "category": "Fotografía > Accesorios / Lentes > Nikon",
-    "price": 260,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-af-s-50mm-f-1-8-g",
     "brand": "Nikon",
@@ -2829,8 +2315,6 @@
   {
     "name": "Nikon Z MC 105mm f/2.8 VR S Macro",
     "category": "Fotografía > Accesorios / Lentes > Nikon",
-    "price": 1020,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z-mc-105mm-f-2-8-vr-s-macro",
     "brand": "Nikon",
@@ -2840,8 +2324,6 @@
   {
     "name": "Nikon Z 24-200mm f/4-6.3 VR",
     "category": "Fotografía > Accesorios / Lentes > Nikon",
-    "price": 950,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z-24-200mm-f-4-6-3-vr",
     "brand": "Nikon",
@@ -2851,8 +2333,6 @@
   {
     "name": "Nikon Z 70-200mm f/2.8 VR S ( PROX )",
     "category": "Fotografía > Accesorios / Lentes > Nikon",
-    "price": 2500,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "nikon-z-70-200mm-f-2-8-vr-s-prox",
     "brand": "Nikon",
@@ -2862,8 +2342,6 @@
   {
     "name": "Sigma 8-16mm f/4.5-5.6 DC HSM Nikon F",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 800,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-8-16mm-f-4-5-5-6-dc-hsm-nikon-f",
     "brand": "Nikon",
@@ -2873,8 +2351,6 @@
   {
     "name": "Sigma 24-70mm f/2.8 ART Nikon F",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 1350,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-24-70mm-f-2-8-art-nikon-f",
     "brand": "Nikon",
@@ -2884,8 +2360,6 @@
   {
     "name": "Tamron 28-75mm f/2.8 III G2",
     "category": "Fotografía > Lentes > Tamron",
-    "price": 1100,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "tamron-28-75mm-f-2-8-iii-g2",
     "brand": "Tamron",
@@ -2895,8 +2369,6 @@
   {
     "name": "Tamron 18-300mm f/3.5-6.3 III",
     "category": "Fotografía > Lentes > Tamron",
-    "price": 830,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "tamron-18-300mm-f-3-5-6-3-iii",
     "brand": "Tamron",
@@ -2906,8 +2378,6 @@
   {
     "name": "Tamron 50-400mm f/4.5-6.3 Di III VC VXD",
     "category": "Fotografía > Lentes > Tamron",
-    "price": 1450,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "tamron-50-400mm-f-4-5-6-3-di-iii-vc-vxd",
     "brand": "Tamron",
@@ -2917,8 +2387,6 @@
   {
     "name": "Canon RP Kit 24-105mm",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 1350,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-rp-kit-24-105mm",
     "brand": "Canon",
@@ -2928,8 +2396,6 @@
   {
     "name": "Canon R100 Kit 18-45mm",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 690,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-r100-kit-18-45mm",
     "brand": "Canon",
@@ -2939,8 +2405,6 @@
   {
     "name": "Canon R100 Doble Kit",
     "category": "Fotografía > Cámaras > Canon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "canon-r100-doble-kit",
     "brand": "Canon",
@@ -2950,8 +2414,6 @@
   {
     "name": "Canon R50 Kit 18-45mm Black",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 900,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-r50-kit-18-45mm-black",
     "brand": "Canon",
@@ -2961,8 +2423,6 @@
   {
     "name": "Canon R50 Doble Kit 18-45mm + 55-210mm",
     "category": "Fotografía > Cámaras > Canon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "canon-r50-doble-kit-18-45mm-plus-55-210mm",
     "brand": "Canon",
@@ -2972,8 +2432,6 @@
   {
     "name": "Canon R50 V Kit 18-45mm",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 900,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-r50-v-kit-18-45mm",
     "brand": "Canon",
@@ -2983,8 +2441,6 @@
   {
     "name": "Canon R10 Body",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 1060,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-r10-body",
     "brand": "Canon",
@@ -2994,8 +2450,6 @@
   {
     "name": "Canon R10 Kit 18-45mm",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 1175,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-r10-kit-18-45mm",
     "brand": "Canon",
@@ -3005,8 +2459,6 @@
   {
     "name": "Canon R10 Kit 18-150mm",
     "category": "Fotografía > Cámaras > Canon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "canon-r10-kit-18-150mm",
     "brand": "Canon",
@@ -3016,8 +2468,6 @@
   {
     "name": "Canon R8 Body",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 1400,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-r8-body",
     "brand": "Canon",
@@ -3027,8 +2477,6 @@
   {
     "name": "Canon R8 + 24-105mm",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 2000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-r8-plus-24-105mm",
     "brand": "Canon",
@@ -3038,8 +2486,6 @@
   {
     "name": "Canon R7 Body",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 1450,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-r7-body",
     "brand": "Canon",
@@ -3049,8 +2495,6 @@
   {
     "name": "Canon R7 Kit 18-150mm",
     "category": "Fotografía > Cámaras > Canon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "canon-r7-kit-18-150mm",
     "brand": "Canon",
@@ -3060,8 +2504,6 @@
   {
     "name": "Canon R6 Mark II Body",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 2100,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-r6-mark-ii-body",
     "brand": "Canon",
@@ -3071,8 +2513,6 @@
   {
     "name": "Canon R6 Mark II Kit 24-105mm",
     "category": "Fotografía > Cámaras > Canon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "canon-r6-mark-ii-kit-24-105mm",
     "brand": "Canon",
@@ -3082,8 +2522,6 @@
   {
     "name": "Canon R6 Mark III Body",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 3050,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-r6-mark-iii-body",
     "brand": "Canon",
@@ -3093,8 +2531,6 @@
   {
     "name": "Canon R6 Mark III Kit 24-105mm",
     "category": "Fotografía > Cámaras > Canon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "canon-r6-mark-iii-kit-24-105mm",
     "brand": "Canon",
@@ -3104,8 +2540,6 @@
   {
     "name": "Canon R5 Mark II Body",
     "category": "Fotografía > Cámaras > Canon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "canon-r5-mark-ii-body",
     "brand": "Canon",
@@ -3115,8 +2549,6 @@
   {
     "name": "Canon R5 C Cinema",
     "category": "Fotografía > Cámaras > Canon",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "canon-r5-c-cinema",
     "brand": "Canon",
@@ -3126,30 +2558,24 @@
   {
     "name": "Bateria LP-E17",
     "category": "Fotografía > CANON - Garantia 6 Meses",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "bateria-lp-e17",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Bateria LP-E6NH Nuevo Modelo",
     "category": "Fotografía > CANON - Garantia 6 Meses",
-    "price": 140,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "bateria-lp-e6nh-nuevo-modelo",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "SmallRig LP-E6NH ( Cargador + 2 Baterias )",
     "category": "Fotografía > CANON - Garantia 6 Meses",
-    "price": 150000,
-    "currency": "ARS",
     "status": "Disponible",
     "slug": "smallrig-lp-e6nh-cargador-plus-2-baterias",
     "brand": "SmallRig",
@@ -3159,30 +2585,24 @@
   {
     "name": "Adaptador EF-EOS R Anillo Control",
     "category": "Fotografía > CANON - Garantia 6 Meses",
-    "price": 260,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "adaptador-ef-eos-r-anillo-control",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Adaptador EF-R",
     "category": "Fotografía > CANON - Garantia 6 Meses",
-    "price": 180,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "adaptador-ef-r",
-    "brand": "nan",
-    "official": "nan",
+    "brand": "",
+    "official": "",
     "image": ""
   },
   {
     "name": "Canon RF 16mm f/2.8 STM",
     "category": "Fotografía > Accesorios / Lentes > Canon",
-    "price": 350,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-rf-16mm-f-2-8-stm",
     "brand": "Canon",
@@ -3192,8 +2612,6 @@
   {
     "name": "Sigma 30mm f/1.4 DC DN Contemporary",
     "category": "Fotografía > Lentes > Sigma",
-    "price": 370,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-30mm-f-1-4-dc-dn-contemporary",
     "brand": "Sigma",
@@ -3203,8 +2621,6 @@
   {
     "name": "Canon RF 24mm f/1.8 Macro IS STM",
     "category": "Fotografía > Accesorios / Lentes > Canon",
-    "price": 650,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-rf-24mm-f-1-8-macro-is-stm",
     "brand": "Canon",
@@ -3214,8 +2630,6 @@
   {
     "name": "Canon RF 45mm f/1.2 STM",
     "category": "Fotografía > Accesorios / Lentes > Canon",
-    "price": 670,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-rf-45mm-f-1-2-stm",
     "brand": "Canon",
@@ -3225,8 +2639,6 @@
   {
     "name": "Canon RF 50mm f/1.8 STM",
     "category": "Fotografía > Accesorios / Lentes > Canon",
-    "price": 270,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-rf-50mm-f-1-8-stm",
     "brand": "Canon",
@@ -3236,8 +2648,6 @@
   {
     "name": "Canon RF 85mm f/2 Macro IS STM",
     "category": "Fotografía > Accesorios / Lentes > Canon",
-    "price": 700,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-rf-85mm-f-2-macro-is-stm",
     "brand": "Canon",
@@ -3247,8 +2657,6 @@
   {
     "name": "Canon RF 600mm f/11 L IS STM",
     "category": "Fotografía > Accesorios / Lentes > Canon",
-    "price": 650,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-rf-600mm-f-11-l-is-stm",
     "brand": "Canon",
@@ -3258,8 +2666,6 @@
   {
     "name": "Sigma 10-18mm f/2.8 Canon",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 770,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-10-18mm-f-2-8-canon",
     "brand": "Canon",
@@ -3269,8 +2675,6 @@
   {
     "name": "Tamron 11-20mm f/2.8 III Canon",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 670,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "tamron-11-20mm-f-2-8-iii-canon",
     "brand": "Tamron",
@@ -3280,8 +2684,6 @@
   {
     "name": "Sigma 12-24mm f/4 HSM ART Canon",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 1450,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-12-24mm-f-4-hsm-art-canon",
     "brand": "Canon",
@@ -3291,8 +2693,6 @@
   {
     "name": "Sigma 16-300mm f/3.5-6.7 DC OS Contemporary Canon RF",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 1050,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-16-300mm-f-3-5-6-7-dc-os-contemporary-canon-rf",
     "brand": "Canon",
@@ -3302,8 +2702,6 @@
   {
     "name": "Sigma 18-50mm f/2.8 Contemporary Canon RF",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 670,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-18-50mm-f-2-8-contemporary-canon-rf",
     "brand": "Canon",
@@ -3313,8 +2711,6 @@
   {
     "name": "Sigma 24-70mm f/2.8 DG OS HSM Art Canon EF",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 1350,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "sigma-24-70mm-f-2-8-dg-os-hsm-art-canon-ef",
     "brand": "Canon",
@@ -3324,8 +2720,6 @@
   {
     "name": "Canon RF 24-105mm f/4-7.1 IS STM",
     "category": "Fotografía > Accesorios / Lentes > Canon",
-    "price": 590,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-rf-24-105mm-f-4-7-1-is-stm",
     "brand": "Canon",
@@ -3335,8 +2729,6 @@
   {
     "name": "Canon RF 100-400mm f/5.6-8 IS USM",
     "category": "Fotografía > Accesorios / Lentes > Canon",
-    "price": 920,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "canon-rf-100-400mm-f-5-6-8-is-usm",
     "brand": "Canon",
@@ -3346,8 +2738,6 @@
   {
     "name": "Tamron 18-300mm f/3.5-6.3 III AVC VXD Canon RF",
     "category": "Fotografía > Cámaras > Canon",
-    "price": 830,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "tamron-18-300mm-f-3-5-6-3-iii-avc-vxd-canon-rf",
     "brand": "Tamron",
@@ -3357,8 +2747,6 @@
   {
     "name": "Flash Godox TT685 II TTL",
     "category": "Fotografía > Iluminación > Godox",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "flash-godox-tt685-ii-ttl",
     "brand": "Godox",
@@ -3368,8 +2756,6 @@
   {
     "name": "Flash Godox V480",
     "category": "Fotografía > Iluminación > Godox",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "flash-godox-v480",
     "brand": "Godox",
@@ -3379,8 +2765,6 @@
   {
     "name": "Flash Godox V1 MID",
     "category": "Fotografía > Iluminación > Godox",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "flash-godox-v1-mid",
     "brand": "Godox",
@@ -3390,8 +2774,6 @@
   {
     "name": "Flash Godox V860 III",
     "category": "Fotografía > Iluminación > Godox",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "flash-godox-v860-iii",
     "brand": "Godox",
@@ -3401,8 +2783,6 @@
   {
     "name": "Flash Godox V1",
     "category": "Fotografía > Iluminación > Godox",
-    "price": 510000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "flash-godox-v1",
     "brand": "Godox",
@@ -3412,8 +2792,6 @@
   {
     "name": "Flash Godox V1 Mid",
     "category": "Fotografía > Iluminación > Godox",
-    "price": 400000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "flash-godox-v1-mid-2",
     "brand": "Godox",
@@ -3423,8 +2801,6 @@
   {
     "name": "Flash Godox V1 PRO",
     "category": "Fotografía > Iluminación > Godox",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "flash-godox-v1-pro",
     "brand": "Godox",
@@ -3434,8 +2810,6 @@
   {
     "name": "Flash Godox V100",
     "category": "Fotografía > Iluminación > Godox",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "flash-godox-v100",
     "brand": "Godox",
@@ -3445,8 +2819,6 @@
   {
     "name": "Flash Godox Macro Ring MF-R76 Sony",
     "category": "Fotografía > Cámaras > Sony",
-    "price": 510000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "flash-godox-macro-ring-mf-r76-sony",
     "brand": "Godox",
@@ -3456,8 +2828,6 @@
   {
     "name": "Flash Godox Macro Ring MF-R76 ( Canon - Nikon )",
     "category": "Fotografía > Cámaras > Nikon",
-    "price": 560000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "flash-godox-macro-ring-mf-r76-canon-nikon",
     "brand": "Nikon",
@@ -3467,8 +2837,6 @@
   {
     "name": "Flash Godox AD100 PRO",
     "category": "Fotografía > Iluminación > Godox",
-    "price": 550000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "flash-godox-ad100-pro",
     "brand": "Godox",
@@ -3478,8 +2846,6 @@
   {
     "name": "Flash Godox AD300 PRO II ( OFERTA )",
     "category": "Fotografía > Iluminación > Godox",
-    "price": 1100000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "flash-godox-ad300-pro-ii-oferta",
     "brand": "Godox",
@@ -3489,8 +2855,6 @@
   {
     "name": "Kit Estudio Godox SK300IIV-E ( Kit 2 Luces )",
     "category": "Fotografía > Iluminación > Godox",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "kit-estudio-godox-sk300iiv-e-kit-2-luces",
     "brand": "Godox",
@@ -3500,8 +2864,6 @@
   {
     "name": "Kit Estudio Godox SK400IIV-D ( Kit 3 Luces )",
     "category": "Fotografía > Iluminación > Godox",
-    "price": 1300000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "kit-estudio-godox-sk400iiv-d-kit-3-luces",
     "brand": "Godox",
@@ -3511,8 +2873,6 @@
   {
     "name": "Godox Luz Led ( Todo Color ) carga magnetica",
     "category": "Fotografía > Iluminación > Godox",
-    "price": 80000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "godox-luz-led-todo-color-carga-magnetica",
     "brand": "Godox",
@@ -3522,8 +2882,6 @@
   {
     "name": "Godox Mini Luz Led CREATIVA M1",
     "category": "Fotografía > Iluminación > Godox",
-    "price": 200000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "godox-mini-luz-led-creativa-m1",
     "brand": "Godox",
@@ -3533,8 +2891,6 @@
   {
     "name": "Godox Led 170II",
     "category": "Fotografía > Iluminación > Godox",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "godox-led-170ii",
     "brand": "Godox",
@@ -3544,8 +2900,6 @@
   {
     "name": "Godox Tubo TL30 Kit x 2 Unidades",
     "category": "Fotografía > Iluminación > Godox",
-    "price": 500000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "godox-tubo-tl30-kit-x-2-unidades",
     "brand": "Godox",
@@ -3555,8 +2909,6 @@
   {
     "name": "Godox Tubo TL30 Kit x 4 Unidades",
     "category": "Fotografía > Iluminación > Godox",
-    "price": 950000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "godox-tubo-tl30-kit-x-4-unidades",
     "brand": "Godox",
@@ -3566,8 +2918,6 @@
   {
     "name": "Godox KNOWLED MS60R RGB LED",
     "category": "Fotografía > Iluminación > Godox",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "godox-knowled-ms60r-rgb-led",
     "brand": "Godox",
@@ -3577,8 +2927,6 @@
   {
     "name": "Godox SL150III BI Bi-Color LED Video Luz",
     "category": "Fotografía > Iluminación > Godox",
-    "price": null,
-    "currency": "USD",
     "status": "Consultar",
     "slug": "godox-sl150iii-bi-bi-color-led-video-luz",
     "brand": "Godox",
@@ -3588,8 +2936,6 @@
   {
     "name": "Godox SL150R RGB LED",
     "category": "Fotografía > Iluminación > Godox",
-    "price": 850000,
-    "currency": "USD",
     "status": "Disponible",
     "slug": "godox-sl150r-rgb-led",
     "brand": "Godox",

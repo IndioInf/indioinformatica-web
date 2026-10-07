@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f5f3ee">
+<meta name="description" content="Indio Informática — tecnología, fotografía, gaming y Apple.">
+<title>Indio Informática · Tecnología bien elegida</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+<a class="brand" href="./"><span>INDIO</span><small>INFORMÁTICA</small></a>
+<nav class="desktop-nav"><a href="#catalogo">Productos</a><a href="#categorias">Categorías</a><a href="#asesoramiento">Asesoramiento</a></nav>
+<div class="header-actions"><button class="icon-btn" id="searchBtn">⌕</button><a class="cart-link" href="#catalogo">Ver catálogo</a></div>
+</header>
+<main>
+<section class="hero">
+<div class="hero-copy"><p class="eyebrow">TECNOLOGÍA · FOTO · GAMING</p>
+<h1>Elegí tecnología<br><em>sin complicarte.</em></h1>
+<p class="hero-text">Productos seleccionados, marcas que conocés y asesoramiento real para comprar mejor.</p>
+<div class="hero-actions"><a class="btn dark" href="#catalogo">Ver productos</a><a class="btn light" href="#asesoramiento">Necesito ayuda</a></div>
+<div class="trust"><span>✓ Atención personalizada</span><span>✓ Productos seleccionados</span><span>✓ Compra simple</span></div>
+</div>
+<div class="hero-art"><div class="orb orb-a"></div><div class="orb orb-b"></div>
+<div class="hero-card"><span>INDIO SELECT</span><strong>Lo último en tecnología,<br>bien elegido.</strong><small>Apple · Samsung · Nikon · Canon · Sony · DJI · Gaming</small></div>
+</div></section>
+
+<section id="categorias" class="section"><div class="section-head"><div><p class="eyebrow">EXPLORÁ</p><h2>Encontrá lo que buscás</h2></div></div>
+<div class="category-grid"><button class="category-card" data-category="Apple"><span>APPLE</span><strong>iPhone · iPad · Mac · Watch</strong><i>↗</i></button>
+<button class="category-card" data-category="Samsung"><span>SAMSUNG</span><strong>Galaxy · Tablets · Wearables</strong><i>↗</i></button>
+<button class="category-card" data-category="Fotografía"><span>FOTOGRAFÍA</span><strong>Nikon · Canon · Sony · Lentes</strong><i>↗</i></button>
+<button class="category-card" data-category="Notebooks"><span>NOTEBOOKS</span><strong>Office · Estudio · Gaming</strong><i>↗</i></button>
+<button class="category-card" data-category="Gaming"><span>GAMING</span><strong>PlayStation · Xbox · Nintendo · PC</strong><i>↗</i></button>
+<button class="category-card" data-category="Creator"><span>CREATOR</span><strong>DJI · Insta360 · GoPro · Audio</strong><i>↗</i></button></div></section>
+
+<section id="catalogo" class="section catalog-section">
+<div class="section-head"><div><p class="eyebrow">CATÁLOGO</p><h2>Productos destacados</h2></div><span class="catalog-count" id="catalogCount"></span></div>
+<div class="catalog-toolbar"><input id="search" type="search" placeholder="Buscar iPhone, Nikon, MacBook..."><select id="categoryFilter"><option value="">Todas las categorías</option></select><select id="sort"><option value="featured">Orden recomendado</option><option value="priceAsc">Precio menor</option><option value="priceDesc">Precio mayor</option><option value="name">Nombre A–Z</option></select></div>
+<div class="product-grid" id="productGrid"></div></section>
+
+<section id="asesoramiento" class="advice"><div><p class="eyebrow">NO TODO ES EL MODELO MÁS CARO</p><h2>Te ayudamos a elegir<br>lo que realmente necesitás.</h2><p>Contanos qué querés hacer, cuánto querés invertir y te orientamos hacia la mejor opción.</p></div><a class="btn white" id="waBtn" href="#" target="_blank">Hablar por WhatsApp →</a></section>
+</main>
+<footer><div class="footer-brand"><strong>INDIO</strong><span>INFORMÁTICA</span></div><div><p>15 años ayudándote a elegir tecnología.</p><p class="muted">Posadas · Misiones · Argentina</p></div><div class="footer-links"><a href="#catalogo">Productos</a><a href="#categorias">Categorías</a><a href="#asesoramiento">WhatsApp</a></div></footer>
+<script src="app.js"></script>
+</body></html>

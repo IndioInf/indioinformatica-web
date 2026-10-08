@@ -1,0 +1,20 @@
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:100%;min-height:100%}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;background:#f7f9fc;color:#101828}
+.maintenance{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:40px 20px}
+.maintenance-container{width:100%;max-width:850px;text-align:center}
+.logo{width:min(420px,80vw);max-height:130px;object-fit:contain;margin-bottom:45px}
+.maintenance-card{background:#fff;border:1px solid #e6eaf0;border-radius:28px;padding:60px 50px;box-shadow:0 25px 70px rgba(16,24,40,.08)}
+.eyebrow{color:#0757d9;font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;margin-bottom:18px}
+h1{font-size:clamp(38px,6vw,62px);line-height:1;letter-spacing:-.045em;margin-bottom:22px;color:#101828}
+.description{max-width:600px;margin:0 auto;color:#667085;font-size:18px;line-height:1.6}
+.divider{width:60px;height:4px;background:#0757d9;border-radius:10px;margin:32px auto}
+.buttons{display:flex;justify-content:center;align-items:center;gap:12px;flex-wrap:wrap;margin-top:35px}
+.button{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 22px;border-radius:14px;font-size:14px;font-weight:750;text-decoration:none;transition:.2s}
+.button-primary{background:#0757d9;color:#fff}.button-primary:hover{background:#0647b5;transform:translateY(-2px)}
+.button-secondary{background:#fff;color:#101828;border:1px solid #d9dee7}.button-secondary:hover{border-color:#0757d9;color:#0757d9;transform:translateY(-2px)}
+.info{margin-top:35px;color:#98a2b3;font-size:13px;line-height:1.7}.info strong{color:#667085}
+.footer{margin-top:35px;color:#98a2b3;font-size:12px}
+.whatsapp-floating{position:fixed;right:24px;bottom:24px;width:58px;height:58px;display:flex;align-items:center;justify-content:center;background:#19a85b;color:#fff;border-radius:50%;font-size:25px;text-decoration:none;box-shadow:0 12px 30px rgba(25,168,91,.3);transition:.2s}
+.whatsapp-floating:hover{transform:scale(1.06)}
+@media(max-width:600px){.maintenance{padding:25px 15px}.maintenance-card{padding:42px 24px;border-radius:22px}.logo{margin-bottom:30px;max-height:90px}h1{font-size:40px}.description{font-size:16px}.buttons{flex-direction:column}.button{width:100%}.whatsapp-floating{width:54px;height:54px;right:18px;bottom:18px}}

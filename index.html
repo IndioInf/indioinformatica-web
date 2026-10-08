@@ -8,17 +8,18 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header class="site-header">
+<header class="site-header full-logo-header"><a class="brand brand-full" href="./" aria-label="Indio Informática"><img src="assets/indio-logo-transparent.png" alt="Indio Informática"></a><nav class="desktop-nav"><a href="#categorias">Categorías</a><a href="#marcas">Marcas</a><a href="#asesoramiento">Asesoramiento</a></nav><div class="header-actions"><a class="ig-mini" href="https://www.instagram.com/indioinformatica/" target="_blank" rel="noopener">Instagram</a><a class="wa-mini" id="waHeader" href="#" target="_blank" rel="noopener">WhatsApp</a></div></header>
   <a class="brand" href="./" aria-label="Indio Informática"><img src="assets/indio-logo-transparent.png" alt="Indio Informática"></a>
   <nav class="desktop-nav"><a href="#categorias">Categorías</a><a href="#marcas">Marcas</a><a href="#asesoramiento">Asesoramiento</a></nav>
   <div class="header-actions"><a class="ig-mini" href="https://www.instagram.com/indioinformatica/" target="_blank" rel="noopener">Instagram</a><button class="icon-btn" id="searchBtn" aria-label="Buscar">⌕</button><a class="wa-mini" id="waHeader" href="#" target="_blank" rel="noopener">WhatsApp</a></div>
 </header>
+<div class="update-bar" aria-label="Última actualización"><span>CATÁLOGO ACTUALIZADO</span><strong>7 de octubre de 2026</strong></div>
 <main>
 <section class="hero">
   <div class="hero-copy">
     <p class="eyebrow">INDIO INFORMÁTICA · LA PLATA</p>
     <h1>Tecnología<br><em>bien elegida.</em></h1>
-    <p class="hero-text">Apple, celulares, fotografía, notebooks, gaming y accesorios. Explorá por categoría y encontrá exactamente lo que buscás.</p>
+    <p class="hero-text">Tecnología seleccionada, asesoramiento real y productos de las marcas que buscás. Explorá por categoría y encontrá exactamente lo que necesitás.</p>
     <div class="hero-actions"><a class="btn dark" href="#categorias">Explorar categorías</a><a class="btn light" id="heroWa" href="#" target="_blank">Hablar con nosotros</a></div>
     <div class="trust"><span>✓ Atención personalizada</span><span>✓ Productos seleccionados</span><span>✓ La Plata · Buenos Aires</span></div>
   </div>
@@ -68,5 +69,6 @@
   <div class="footer-links"><a href="#categorias">Categorías</a><a href="#marcas">Marcas</a><a href="#asesoramiento">WhatsApp</a><a href="https://www.instagram.com/indioinformatica/" target="_blank" rel="noopener">Instagram</a></div>
 </footer>
 <a class="floating-wa" id="floatingWa" href="#" target="_blank" rel="noopener" aria-label="Hablar por WhatsApp">WhatsApp</a>
+<div class="tech-modal" id="techModal"><div class="tech-dialog"><button class="tech-close" id="closeTech" aria-label="Cerrar">×</button><div id="techContent"></div></div></div>
 <script src="app.js"></script>
 </body></html>

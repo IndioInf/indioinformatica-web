@@ -1,14 +1,16 @@
-INDIO INFORMÁTICA — PAQUETE PARA GITHUB PAGES
+INDIO INFORMÁTICA — V2 FINAL PARA GITHUB PAGES
 
-Subir el contenido de esta carpeta al repositorio IndioInf/indioinformatica-web, reemplazando los archivos existentes. No subir el ZIP como archivo único.
+Subir TODOS los archivos y la carpeta assets al repositorio IndioInf/indioinformatica-web. Reemplazar la versión anterior. No subir el ZIP como archivo único.
 
 Incluye:
-- catálogo por categorías (los productos no aparecen todos en portada)
-- precios convertidos a AR$ con cotización aplicada de $1.565/USD
-- WhatsApp +54 9 221 610-2965
-- La Plata, Buenos Aires, Argentina
-- Instagram oficial
-- formas de pago, pedidos y garantía
-- descripciones y especificaciones para computadoras/notebooks
+- logo a todo el ancho en el encabezado
+- navegación por categorías
+- catálogo completo tomado del Excel actualizado
+- AR$ exactos cuando la planilla dice AR$
+- USD convertido a AR$ a $1.565/USD
+- Consultar / Próximamente respetados
+- ficha técnica interactiva para cada producto
+- descripciones disponibles del Excel, especialmente notebooks
+- WhatsApp, Instagram, La Plata y garantía
 
-Nota: las fotos reales individuales de los 327 productos todavía requieren asociación producto por producto con una imagen oficial; no se inventaron URLs de imágenes.
+Las imágenes de producto se dejan sin inventar cuando no hay una fuente oficial validada.

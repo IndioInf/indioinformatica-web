@@ -1,66 +1,22 @@
-const WHATSAPP="5492216102965";
-const INSTAGRAM="https://www.instagram.com/indioinformatica/";
-const FEATURED=["apple-iphone-18-pro-256gb","macbook-pro-m5-14-16gb-1tb-10-cpu-10-gpu-espanol","apple-ipad-pro-m5-11-256gb","samsung-s26-ultra-12gb-256gb","nikon-z6-iii-body-espanol","sony-a6700-body","canon-r8-body","dji-osmo-pocket-4-creator-combo"];
-let products=[];
+const WHATSAPP="5492216102965"; const RATE=1565; let products=[];
 const safe=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m]));
-const waLink=name=>"https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent("Hola Indio Informática, consulto por: "+name);
 const norm=s=>String(s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
-function keyFor(p){
- const c=norm(p.category), n=norm(p.name), b=norm(p.brand);
- if(c.startsWith("apple")||/iphone|ipad|macbook|mac mini|apple watch|airpods|pencil/.test(n)) return "apple";
- if(/camara|lente|sigma|tamron|nikon|canon|sony|godox|fotografia/.test(c+" "+n+" "+b)) return "foto";
- if(/notebook|laptop|macbook/.test(c+" "+n)) return "notebooks";
- if(/consola|playstation|xbox|nintendo|sim racing|gaming|joystick/.test(c+" "+n)) return "gaming";
- if(/dji|insta360|gopro|osmo|gimbal|estabilizador|microfono|micrófono|creator/.test(c+" "+n+" "+b)) return "creator";
- if(/jbl|parlante|audio|auricular|airpods|headphone/.test(c+" "+n+" "+b)) return "audio";
- if(/samsung|motorola|xiaomi|redmi|poco|celular|smartphone/.test(c+" "+n+" "+b)) return "celulares";
- if(/tablet|ipad/.test(c+" "+n)) return "tablets";
- return "accesorios";
-}
+const waLink=name=>"https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent("Hola Indio Informática, consulto por: "+name);
 const CATEGORIES=[
- {key:"apple",title:"Apple",desc:"iPhone · iPad · Mac · Watch · AirPods",tag:"APPLE",icon:""},
- {key:"celulares",title:"Celulares",desc:"Samsung · Motorola · Xiaomi · más",tag:"SMARTPHONES",icon:"01"},
- {key:"foto",title:"Fotografía",desc:"Cámaras · Lentes · Iluminación · Accesorios",tag:"FOTO & VIDEO",icon:"02"},
- {key:"notebooks",title:"Notebooks",desc:"Office · Estudio · Gaming",tag:"COMPUTACIÓN",icon:"03"},
- {key:"gaming",title:"Gaming",desc:"PlayStation · Xbox · Nintendo · Sim Racing",tag:"GAMING",icon:"04"},
- {key:"creator",title:"Creator",desc:"DJI · Insta360 · Gimbals · Audio",tag:"CREATOR",icon:"05"},
- {key:"audio",title:"Audio",desc:"JBL · Auriculares · Parlantes · Micrófonos",tag:"AUDIO",icon:"06"},
- {key:"accesorios",title:"Accesorios",desc:"Complementos para tus dispositivos",tag:"ACCESORIOS",icon:"07"}
-];
-function count(key){return products.filter(p=>keyFor(p)===key).length}
-function renderCategories(){
- const grid=document.querySelector('#categoryGrid');
- grid.innerHTML=CATEGORIES.map(c=>`<button class="category-card" data-key="${c.key}"><div class="cat-top"><span>${c.tag}</span><i>${c.icon}</i></div><div><h3>${c.title}</h3><p>${c.desc}</p></div><div class="cat-bottom"><small>${count(c.key)} productos</small><b>Explorar →</b></div></button>`).join('');
- grid.querySelectorAll('.category-card').forEach(b=>b.addEventListener('click',()=>openCategory(b.dataset.key)));
-}
-function openCategory(key){
- const cat=CATEGORIES.find(c=>c.key===key); if(!cat)return;
- document.querySelector('#catalogo').hidden=false; document.querySelector('#categorias').hidden=true;
- document.querySelector('#catalogTitle').textContent=cat.title; document.querySelector('#catalogEyebrow').textContent=cat.tag;
- document.querySelector('#search').value=''; renderSubcategories(key); apply(key);
- document.querySelector('#catalogo').scrollIntoView({behavior:'smooth'});
-}
-function renderSubcategories(key){
- const row=document.querySelector('#subcategoryRow');
- const cats=[...new Set(products.filter(p=>keyFor(p)===key).map(p=>p.category.split(' > ').slice(1).join(' · ')).filter(Boolean))].sort();
- row.innerHTML=`<button class="sub active" data-sub="">Todos</button>`+cats.map(c=>`<button class="sub" data-sub="${safe(c)}">${safe(c)}</button>`).join('');
- row.querySelectorAll('.sub').forEach(b=>b.addEventListener('click',()=>{row.querySelectorAll('.sub').forEach(x=>x.classList.remove('active'));b.classList.add('active');apply(key,b.dataset.sub)}));
-}
-function render(list){
- const grid=document.querySelector('#productGrid');
- document.querySelector('#catalogCount').textContent=list.length+' productos';
- grid.innerHTML=list.length?list.map(p=>`<article class="product"><div class="product-image">${p.image?`<img loading="lazy" src="${safe(p.image)}" alt="${safe(p.name)}">`:`<div class="product-placeholder"><span>${safe(p.brand||'INDIO')}</span><strong>${safe(p.name)}</strong><small>Imagen oficial próximamente</small></div>`}</div><div class="product-info"><div class="product-brand">${safe(p.brand||'INDIO')}</div><div class="product-name">${safe(p.name)}</div><p class="product-desc">${safe(p.description||'')}</p>${p.specs?`<div class="product-specs">${safe(p.specs)}</div>`:''}<div class="product-status">${safe(p.status||'Consultar disponibilidad')}</div><div class="product-price">${safe(p.price_display||'Consultar')}</div><a class="product-wa" href="${waLink(p.name)}" target="_blank" rel="noopener">Consultar por WhatsApp →</a></div></article>`).join(''):`<div class="empty">No encontramos productos con esa búsqueda.</div>`;
-}
-function apply(key,sub=''){
- const q=norm(document.querySelector('#search').value);
- let list=products.filter(p=>keyFor(p)===key && (!q||norm(p.name).includes(q)||norm(p.brand).includes(q)||norm(p.category).includes(q)) && (!sub||p.category.split(' > ').slice(1).join(' · ')===sub));
- if(document.querySelector('#sort').value==='name')list.sort((a,b)=>a.name.localeCompare(b.name)); else list.sort((a,b)=>FEATURED.indexOf(b.slug)-FEATURED.indexOf(a.slug));
- render(list);
-}
-document.querySelector('#backCategories').addEventListener('click',()=>{document.querySelector('#catalogo').hidden=true;document.querySelector('#categorias').hidden=false;document.querySelector('#categorias').scrollIntoView({behavior:'smooth'});});
-document.querySelector('#search').addEventListener('input',()=>{const title=document.querySelector('#catalogTitle').textContent;const key=CATEGORIES.find(c=>c.title===title)?.key;apply(key,document.querySelector('.sub.active')?.dataset.sub||'')});
-document.querySelector('#sort').addEventListener('change',()=>{const title=document.querySelector('#catalogTitle').textContent;const key=CATEGORIES.find(c=>c.title===title)?.key;apply(key,document.querySelector('.sub.active')?.dataset.sub||'')});
-document.querySelector('#searchBtn').addEventListener('click',()=>{document.querySelector('#categorias').scrollIntoView({behavior:'smooth'});setTimeout(()=>{document.querySelector('#search').focus()},500)});
-const wa="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent("Hola Indio Informática, necesito asesoramiento para elegir un producto.");
-document.querySelector('#waBtn').href=wa;document.querySelector('#waHeader').href=wa;document.querySelector('#heroWa').href=wa;document.querySelector('#floatingWa').href=wa;
-fetch('products.json').then(r=>r.json()).then(d=>{products=d;renderCategories()}).catch(()=>document.querySelector('#categoryGrid').innerHTML='<div class="empty">No se pudo cargar el catálogo.</div>');
+{key:'Apple',title:'Apple',desc:'iPhone · iPad · Mac · Watch · AirPods',tag:'APPLE',icon:''},
+{key:'Celulares',title:'Celulares',desc:'Samsung · Motorola · Xiaomi · Google',tag:'SMARTPHONES',icon:'01'},
+{key:'Cámaras y Lentes',title:'Cámaras y Lentes',desc:'Nikon · Canon · Sony · Sigma · Tamron · Godox',tag:'FOTO & VIDEO',icon:'02'},
+{key:'Notebooks',title:'Notebooks',desc:'Office · Estudio · Gaming',tag:'COMPUTACIÓN',icon:'03'},
+{key:'Gaming',title:'Gaming',desc:'PlayStation · Xbox · Nintendo · Sim Racing',tag:'GAMING',icon:'04'},
+{key:'Creator',title:'Creator',desc:'DJI · Insta360 · GoPro · Gimbals',tag:'CREATOR',icon:'05'},
+{key:'Audio',title:'Audio',desc:'JBL · Auriculares · Parlantes',tag:'AUDIO',icon:'06'},
+{key:'Tablets',title:'Tablets',desc:'Samsung · Lenovo y más',tag:'TABLETS',icon:'07'},
+{key:'Accesorios',title:'Accesorios',desc:'Complementos para tus dispositivos',tag:'ACCESORIOS',icon:'08'}];
+function renderCategories(){const g=document.querySelector('#categoryGrid');g.innerHTML=CATEGORIES.map(c=>`<button class="category-card category-${c.key.toLowerCase().replace(/[^a-z]+/g,'-')}" data-key="${safe(c.key)}"><div class="cat-top"><span>${c.tag}</span><i>${c.icon}</i></div><div><h3>${c.title}</h3><p>${c.desc}</p></div><div class="cat-bottom"><small>${products.filter(p=>p.category===c.key).length} productos</small><b>Explorar →</b></div></button>`).join('');g.querySelectorAll('.category-card').forEach(b=>b.addEventListener('click',()=>openCategory(b.dataset.key)))}
+function openCategory(key){const c=CATEGORIES.find(x=>x.key===key);document.querySelector('#catalogo').hidden=false;document.querySelector('#categorias').hidden=true;document.querySelector('#catalogTitle').textContent=c.title;document.querySelector('#catalogEyebrow').textContent=c.tag;document.querySelector('#search').value='';renderSubcategories(key);apply(key);document.querySelector('#catalogo').scrollIntoView({behavior:'smooth'})}
+function renderSubcategories(key){const r=document.querySelector('#subcategoryRow');const subs=[...new Set(products.filter(p=>p.category===key).map(p=>p.brand).filter(Boolean))].sort();r.innerHTML='<button class="sub active" data-sub="">Todos</button>'+subs.map(s=>`<button class="sub" data-sub="${safe(s)}">${safe(s)}</button>`).join('');r.querySelectorAll('.sub').forEach(b=>b.onclick=()=>{r.querySelectorAll('.sub').forEach(x=>x.classList.remove('active'));b.classList.add('active');apply(key,b.dataset.sub)})}
+function render(list){const g=document.querySelector('#productGrid');document.querySelector('#catalogCount').textContent=`${list.length} productos`;g.innerHTML=list.length?list.map(p=>`<article class="product"><div class="product-image">${p.image?`<img src="${safe(p.image)}" alt="${safe(p.name)}" loading="lazy">`:`<div class="product-placeholder"><span>${safe(p.brand||p.category)}</span><strong>${safe(p.name)}</strong><small>Imagen oficial pendiente</small></div>`}</div><div class="product-info"><div class="product-brand">${safe(p.brand||p.category)}</div><div class="product-name">${safe(p.name)}</div>${p.description?`<p class="product-desc">${safe(p.description)}</p>`:''}<div class="product-price">${safe(p.price_display)}</div><div class="product-status">${safe(p.status)}</div><div class="product-actions"><button class="tech-btn" data-id="${safe(p.slug)}">Ver ficha técnica</button><a class="product-wa" href="${waLink(p.name)}" target="_blank" rel="noopener">WhatsApp →</a></div></div></article>`).join(''):'<div class="empty">No encontramos productos con esa búsqueda.</div>';g.querySelectorAll('.tech-btn').forEach(b=>b.onclick=()=>openTech(b.dataset.id))}
+function apply(key,brand=''){const q=norm(document.querySelector('#search').value);let list=products.filter(p=>p.category===key);if(brand)list=list.filter(p=>p.brand===brand);if(q)list=list.filter(p=>norm(p.name+' '+p.brand+' '+p.description+' '+p.specs).includes(q));if(document.querySelector('#sort').value==='name')list.sort((a,b)=>a.name.localeCompare(b.name));render(list)}
+function techFields(p){const n=p.name;const f=[];const add=(k,v)=>{if(v&&!f.some(x=>x[0]===k))f.push([k,v])}; add('Producto',n); if(p.brand)add('Marca',p.brand); const cap=n.match(/\b(\d+(?:[.,]\d+)?(?:GB|TB|MB))\b/ig); if(cap)add('Capacidad',cap.join(' · ')); const size=n.match(/\b(\d+(?:[.,]\d+)?(?:[”"']|\s?mm))\b/ig); if(size)add('Tamaño',size.join(' · ')); const focal=n.match(/\b\d+(?:-\d+)?mm\b/ig); if(focal)add('Distancia focal',focal.join(' · ')); const ap=n.match(/f\/?\d+(?:[.,]\d+)?(?:-\d+(?:[.,]\d+)?)?/ig); if(ap)add('Apertura',ap.join(' · ')); const hz=n.match(/\b\d+Hz\b/ig); if(hz)add('Frecuencia',hz.join(' · ')); const cpu=n.match(/(?:M[1-9](?: Pro| Max| Ultra)?|A\d+(?: Pro)?|Ryzen[^·/]+|Core (?:i[3579]|Ultra)[^·/]+|RTX \d{3,4})/i); if(cpu)add('Plataforma',cpu[0].trim()); if(/wifi/i.test(n))add('Conectividad','Wi‑Fi'); if(/cell/i.test(n))add('Conectividad','Wi‑Fi + Cellular'); if(/kit/i.test(n))add('Configuración','Kit'); if(/body/i.test(n))add('Configuración','Body'); if(p.description)add('Especificaciones disponibles',p.description); return f}
+function openTech(id){const p=products.find(x=>x.slug===id);if(!p)return;document.querySelector('#techModal').classList.add('open');document.querySelector('#techContent').innerHTML=`<div class="tech-kicker">${safe(p.brand||p.category)}</div><h2>${safe(p.name)}</h2><div class="tech-price">${safe(p.price_display)}</div><div class="tech-grid">${techFields(p).map(x=>`<div><span>${safe(x[0])}</span><strong>${safe(x[1])}</strong></div>`).join('')}</div><div class="tech-block"><h3>Información</h3><p>Consultá disponibilidad, variantes y compatibilidad antes de realizar la compra. Te asesoramos por WhatsApp.</p></div><a class="btn dark tech-wa" href="${waLink(p.name)}" target="_blank">Consultar por WhatsApp →</a>`}
+document.addEventListener('DOMContentLoaded',async()=>{products=await fetch('products.json').then(r=>r.json());renderCategories();const wa='https://wa.me/'+WHATSAPP;['waHeader','heroWa','waBtn','floatingWa'].forEach(id=>{const e=document.getElementById(id);if(e)e.href=wa});document.querySelector('#search').oninput=()=>{const k=document.querySelector('#catalogTitle').textContent;const c=CATEGORIES.find(x=>x.title===k);if(c)apply(c.key,document.querySelector('.sub.active')?.dataset.sub||'')};document.querySelector('#sort').onchange=()=>{const k=document.querySelector('#catalogTitle').textContent;const c=CATEGORIES.find(x=>x.title===k);if(c)apply(c.key,document.querySelector('.sub.active')?.dataset.sub||'')};document.querySelector('#backCategories').onclick=()=>{document.querySelector('#catalogo').hidden=true;document.querySelector('#categorias').hidden=false;document.querySelector('#categorias').scrollIntoView({behavior:'smooth'})};document.querySelector('#closeTech').onclick=()=>document.querySelector('#techModal').classList.remove('open');document.querySelector('#techModal').onclick=e=>{if(e.target.id==='techModal')e.currentTarget.classList.remove('open')}});

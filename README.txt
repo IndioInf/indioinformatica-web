@@ -1,12 +1,14 @@
-INDIO INFORMÁTICA — VERSIÓN LA PLATA
+INDIO INFORMÁTICA — PAQUETE PARA GITHUB PAGES
 
-Cambios:
-- La Plata, Buenos Aires, Argentina
+Subir el contenido de esta carpeta al repositorio IndioInf/indioinformatica-web, reemplazando los archivos existentes. No subir el ZIP como archivo único.
+
+Incluye:
+- catálogo por categorías (los productos no aparecen todos en portada)
+- precios convertidos a AR$ con cotización aplicada de $1.565/USD
 - WhatsApp +54 9 221 610-2965
-- Instagram https://www.instagram.com/indioinformatica/
-- Precios eliminados del catálogo público
-- Logo real incluido en assets/indio-logo.png
-- Catálogo organizado por categorías
+- La Plata, Buenos Aires, Argentina
+- Instagram oficial
+- formas de pago, pedidos y garantía
+- descripciones y especificaciones para computadoras/notebooks
 
-IMPORTANTE SOBRE IMÁGENES:
-El catálogo está preparado para mostrar imágenes reales mediante el campo image de products.json. No se agregaron fotos inventadas ni URLs no verificadas. Para completar los 327 productos con fotos reales, hay que asociar cada producto con su imagen oficial o una imagen de producto autorizada.
+Nota: las fotos reales individuales de los 327 productos todavía requieren asociación producto por producto con una imagen oficial; no se inventaron URLs de imágenes.

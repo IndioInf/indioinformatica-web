@@ -12,30 +12,30 @@ footer{background:#0b1220;color:#fff;padding:40px 0}.small{color:#98a2b3;font-si
 @media(max-width:850px){.links{display:none}.about{grid-template-columns:1fr}.cats,.products{grid-template-columns:repeat(2,1fr)}.heroBox{padding:35px}.cta{flex-direction:column;align-items:flex-start}}@media(max-width:520px){.cats,.products{gap:10px}.pic{height:160px}.body{padding:13px}.top{font-size:11px}.heroBox{min-height:500px}}
 </style></head><body>
 <div class="top"><span>15 años acompañándote en tecnología</span><span>La Plata · Buenos Aires</span></div>
-<header><div class="wrap nav"><img class="logo" src="assets/logo.png" alt="Indio Informática"><nav class="links"><a href="#categorias">Categorías</a><a href="#productos">Productos</a><a href="#nosotros">Sobre nosotros</a></nav><a class="wa" href="https://wa.me/5492216102965">WhatsApp</a></div></header>
+<header><div class="wrap nav"><img class="logo" src="logo.png" alt="Indio Informática"><nav class="links"><a href="#categorias">Categorías</a><a href="#productos">Productos</a><a href="#nosotros">Sobre nosotros</a></nav><a class="wa" href="https://wa.me/5492216102965">WhatsApp</a></div></header>
 <main>
 <div class="hero"><div class="wrap"><div class="heroBox"><div><div class="eyebrow" style="color:#fff">INDIO INFORMÁTICA</div><h1>Tecnología elegida para vos.</h1><p>Productos, marcas y accesorios seleccionados. Y asesoramiento real para que puedas comprar con confianza.</p><a class="btn" href="#productos">Ver productos</a><a class="btn alt" href="https://wa.me/5492216102965">Consultar por WhatsApp</a></div></div></div></div>
 <section id="nosotros"><div class="wrap about"><div><div class="eyebrow">Sobre nosotros</div><h2>No se trata solo de vender tecnología.<br><span>Se trata de ayudarte a elegir bien.</span></h2><p>En Indio Informática creemos que comprar tecnología no debería ser simplemente elegir un producto de una lista.</p><p>Nos gusta escucharte, entender qué necesitás y ayudarte a encontrar la opción que realmente tenga sentido para vos.</p></div><div class="pillars"><div class="pillar"><b>ESCUCHAMOS</b>Entendemos qué necesitás antes de recomendarte.</div><div class="pillar"><b>ASESORAMOS</b>Te explicamos las opciones de forma clara.</div><div class="pillar"><b>ACOMPAÑAMOS</b>Queremos que tu experiencia no termine con la compra.</div></div></div></section>
 <section id="categorias" class="gray"><div class="wrap"><div class="head"><h2>Explorá por categoría</h2><p>Primero elegís qué buscás. Después vemos las opciones.</p></div><div class="cats">
-<a class="cat" href="#productos"><img src="assets/z50ii.jpeg"><div><h3>Fotografía</h3></div></a><a class="cat" href="#productos"><img src="assets/hub11.jpeg"><div><h3>Accesorios</h3></div></a><a class="cat" href="#productos"><img src="assets/powerbank.webp"><div><h3>Carga y energía</h3></div></a><a class="cat" href="#productos"><img src="assets/tomtoc.jpeg"><div><h3>Apple & Mac</h3></div></a>
+<a class="cat" href="#productos"><img src="z50ii.jpeg"><div><h3>Fotografía</h3></div></a><a class="cat" href="#productos"><img src="hub11.jpeg"><div><h3>Accesorios</h3></div></a><a class="cat" href="#productos"><img src="powerbank.webp"><div><h3>Carga y energía</h3></div></a><a class="cat" href="#productos"><img src="tomtoc.jpeg"><div><h3>Apple & Mac</h3></div></a>
 </div></div></section>
 <section id="productos"><div class="wrap"><div class="head"><h2>Productos destacados</h2><p>Prueba visual con las imágenes que acabás de subir.</p></div><div class="filters"><button class="filter active" onclick="show('all',this)">Todos</button><button class="filter" onclick="show('acc',this)">Accesorios</button><button class="filter" onclick="show('charge',this)">Carga</button><button class="filter" onclick="show('photo',this)">Fotografía</button></div><div class="products" id="grid"></div></div></section>
 <section><div class="wrap"><div class="cta"><div><h2>¿No sabés cuál elegir?</h2><p>Contanos qué necesitás y te ayudamos.</p></div><a class="btn" href="https://wa.me/5492216102965">Hablar por WhatsApp</a></div></div></section>
-</main><footer><div class="wrap"><img class="logo" src="assets/logo.png"><p class="small">Tecnología · Asesoramiento · Confianza<br>La Plata, Buenos Aires · indio_electronica@hotmail.com</p></div></footer><a class="float" href="https://wa.me/5492216102965">✆</a>
+</main><footer><div class="wrap"><img class="logo" src="logo.png"><p class="small">Tecnología · Asesoramiento · Confianza<br>La Plata, Buenos Aires · indio_electronica@hotmail.com</p></div></footer><a class="float" href="https://wa.me/5492216102965">✆</a>
 <script>
 const p=[
-['acc','Baseus','HUB Baseus 11 en 1 4K 60Hz','assets/hub11.jpeg','HUB USB-C multifunción con 11 conexiones y video 4K a 60Hz.'],
-['acc','Baseus','HUB Baseus 7 en 1 4K 60Hz','assets/hub7.jpeg','Adaptador USB-C para notebooks con salida 4K a 60Hz.'],
-['charge','Baseus','EnerFill FM11 UltraMini 10.000 mAh','assets/powerbank.webp','PowerBank magnético: hasta 22,5W por cable y 15W inalámbrico.'],
-['charge','Mcdodo','Cable USB-C a Lightning 4 en 1 60W','assets/mcdodo.jpeg','Cable multifunción con cabezales intercambiables.'],
-['charge','Ringke','Cable Fast Charging USB a USB-C','assets/ringke-cable.webp','Cable trenzado con transferencia de datos de hasta 480 Mbps.'],
-['charge','Ringke','Cargador 3 en 1','assets/ringke3.webp','Carga iPhone, Apple Watch y AirPods.'],
-['acc','Spigen','Liquid Air','assets/spigen.webp','Funda delgada de TPU flexible con textura antideslizante.'],
-['acc','Ringke','Fusion Clear','assets/ringke-clear.webp','Funda transparente híbrida para protección diaria.'],
-['photo','Nikon','Z50 II','assets/z50ii.jpeg','Cámara mirrorless Nikon. Imagen de prueba.'],
-['acc','Tomtoc','Defender MacBook 13"','assets/tomtoc.jpeg','Funda protectora Tomtoc Defender para MacBook.'],
-['acc','Ringke','Easy Slide Tempered Glass Pack x2','assets/templado.webp','Vidrio templado 9H con marco aplicador.'],
-['acc','Protección','Templado Anti Espía','assets/anti-espia.webp','Protector que reduce el ángulo de visión lateral.']
+['acc','Baseus','HUB Baseus 11 en 1 4K 60Hz','hub11.jpeg','HUB USB-C multifunción con 11 conexiones y video 4K a 60Hz.'],
+['acc','Baseus','HUB Baseus 7 en 1 4K 60Hz','hub7.jpeg','Adaptador USB-C para notebooks con salida 4K a 60Hz.'],
+['charge','Baseus','EnerFill FM11 UltraMini 10.000 mAh','powerbank.webp','PowerBank magnético: hasta 22,5W por cable y 15W inalámbrico.'],
+['charge','Mcdodo','Cable USB-C a Lightning 4 en 1 60W','mcdodo.jpeg','Cable multifunción con cabezales intercambiables.'],
+['charge','Ringke','Cable Fast Charging USB a USB-C','ringke-cable.webp','Cable trenzado con transferencia de datos de hasta 480 Mbps.'],
+['charge','Ringke','Cargador 3 en 1','ringke3.webp','Carga iPhone, Apple Watch y AirPods.'],
+['acc','Spigen','Liquid Air','spigen.webp','Funda delgada de TPU flexible con textura antideslizante.'],
+['acc','Ringke','Fusion Clear','ringke-clear.webp','Funda transparente híbrida para protección diaria.'],
+['photo','Nikon','Z50 II','z50ii.jpeg','Cámara mirrorless Nikon. Imagen de prueba.'],
+['acc','Tomtoc','Defender MacBook 13"','tomtoc.jpeg','Funda protectora Tomtoc Defender para MacBook.'],
+['acc','Ringke','Easy Slide Tempered Glass Pack x2','templado.webp','Vidrio templado 9H con marco aplicador.'],
+['acc','Protección','Templado Anti Espía','anti-espia.webp','Protector que reduce el ángulo de visión lateral.']
 ];
 function render(list){grid.innerHTML=list.map(x=>`<article class="card"><div class="pic"><img src="${x[3]}" alt="${x[2]}"></div><div class="body"><div class="brand">${x[1]}</div><h3>${x[2]}</h3><div class="desc">${x[4]}</div><div class="bottom"><span>Consultar</span><span style="color:#0757d9">Ficha →</span></div></div></article>`).join('')}
 function show(c,b){document.querySelectorAll('.filter').forEach(x=>x.classList.remove('active'));b.classList.add('active');render(c==='all'?p:p.filter(x=>x[0]===c))}

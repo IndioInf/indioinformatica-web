@@ -1,33 +1,73 @@
-<!doctype html>
-<html lang="es">
+<!DOCTYPE html>
+<html lang="es-AR">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Indio Informática — Mantenimiento</title>
-<meta name="robots" content="noindex,nofollow">
-<link rel="stylesheet" href="style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#123b72">
+  <meta name="description" content="Catálogo de prueba de Indio Informática: iPhone, iPad y MacBook con descripciones y fichas técnicas.">
+  <title>Indio Informática | Catálogo de prueba</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="maintenance">
-  <div class="maintenance-container">
-    <img src="logo.png" alt="Indio Informática" class="logo">
-    <div class="maintenance-card">
-      <div class="eyebrow">Indio Informática</div>
-      <h1>Estamos renovando nuestra web.</h1>
-      <div class="divider"></div>
-      <p class="description">
-        Estamos preparando una nueva experiencia para que encuentres
-        tus productos de tecnología de forma más simple y rápida.
-      </p>
-      <div class="buttons">
-        <a href="https://wa.me/5492216102965" class="button button-primary">Contactanos por WhatsApp</a>
-        <a href="https://www.instagram.com/indioinformatica/" class="button button-secondary" target="_blank" rel="noopener">Instagram</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand-lockup">
+        <img class="brand-logo" src="assets/indio-logo.png" alt="Indio Informática">
+        <div class="brand-copy">
+          <span class="eyebrow">Tecnología con asesoramiento</span>
+          <h1>Indio Informática</h1>
+          <p>Elegir bien también es parte de la experiencia.</p>
+        </div>
       </div>
-      <div class="info"><strong>La Plata · Buenos Aires</strong><br>Muy pronto volvemos a estar online.</div>
+      <span class="test-pill">Catálogo de prueba</span>
     </div>
-    <div class="footer">© Indio Informática</div>
-  </div>
-</div>
-<a href="https://wa.me/5492216102965" class="whatsapp-floating" aria-label="WhatsApp">✆</a>
+  </header>
+
+  <main>
+    <section class="intro section-wrap">
+      <div class="intro-text">
+        <span class="section-kicker">Bienvenidos</span>
+        <h2>No se trata solo de vender tecnología.<br><span>Se trata de ayudarte a elegir bien.</span></h2>
+        <p>Queremos que encuentres el equipo adecuado para vos. Por eso reunimos información clara, características reales y detalles útiles para comparar cada producto.</p>
+      </div>
+      <div class="intro-stat"><strong>15+</strong><span>Años acompañando<br>a nuestros clientes</span></div>
+    </section>
+
+    <section class="catalog-section section-wrap" aria-labelledby="catalog-title">
+      <div class="catalog-heading">
+        <div>
+          <span class="section-kicker">Catálogo</span>
+          <h2 id="catalog-title">Probá cómo se verían las fichas</h2>
+          <p class="section-subtitle">Cinco productos de muestra. Elegí una categoría y abrí la ficha técnica sin salir de la página.</p>
+        </div>
+        <span id="product-count" class="product-count">5 productos</span>
+      </div>
+
+      <div class="filters" role="group" aria-label="Filtrar por categoría">
+        <button class="filter-btn active" data-filter="todos" type="button" aria-pressed="true">Todos</button>
+        <button class="filter-btn" data-filter="iphone" type="button" aria-pressed="false">iPhone</button>
+        <button class="filter-btn" data-filter="ipad" type="button" aria-pressed="false">iPad</button>
+        <button class="filter-btn" data-filter="macbook" type="button" aria-pressed="false">MacBook</button>
+      </div>
+
+      <div id="product-grid" class="product-grid" aria-live="polite"></div>
+      <p class="catalog-note"><span aria-hidden="true">ⓘ</span> Los colores que se muestran son los oficiales del modelo. La disponibilidad de cada color debe consultarse antes de confirmar el pedido.</p>
+    </section>
+
+    <section class="about section-wrap">
+      <div class="about-label">Sobre nosotros</div>
+      <div>
+        <h2>Escuchamos. Asesoramos. Acompañamos.</h2>
+        <p>En Indio Informática creemos que comprar tecnología no debería ser simplemente elegir un producto de una lista. Cada persona tiene necesidades, usos y presupuestos diferentes. Nos gusta escucharte, entender qué necesitás y ayudarte a encontrar una opción que realmente tenga sentido para vos.</p>
+        <p>No queremos que seas una venta más. Queremos que vuelvas porque sabés que, cuando necesitás tecnología, podés contar con nosotros.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner"><span>Indio Informática</span><span>Versión de prueba · 5 productos</span></div>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>

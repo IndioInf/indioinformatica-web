@@ -1,0 +1,12 @@
+INDIO INFORMÁTICA — PRUEBA DE CATÁLOGO
+
+Este paquete contiene una versión autocontenida: las imágenes de los 5 productos, el logo, los estilos y el funcionamiento están dentro de index.html. No depende de una carpeta assets, rutas relativas ni imágenes externas.
+
+PARA PUBLICAR EN GITHUB PAGES
+1. Descomprimí este archivo.
+2. En el repositorio de prueba, subí index.html a la carpeta que GitHub Pages usa como origen (normalmente la raíz de la rama principal).
+3. Reemplazá el index.html de esta versión de prueba por este archivo. Si ya existen styles.css, script.js y assets, no hacen falta para esta versión autocontenida.
+4. En Settings → Pages, asegurate de que Source sea Deploy from a branch, rama principal y /(root), o respetá la carpeta que ya usa tu repositorio.
+5. Esperá el despliegue y recargá la página con Cmd + Shift + R (Mac) para evitar caché.
+
+No subas solo el archivo ZIP a GitHub: hay que descomprimirlo y subir el index.html.

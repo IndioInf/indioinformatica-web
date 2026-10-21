@@ -1,0 +1,40 @@
+name: Validate static site
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - "security/**"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+      - name: Validate product data and required files
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s index.html
+          test -s style.css
+          test -s products.json
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          products = json.loads(Path("products.json").read_text(encoding="utf-8"))
+          if not isinstance(products, list):
+              raise SystemExit("products.json debe contener una lista")
+          for i, product in enumerate(products):
+              if not isinstance(product, dict):
+                  raise SystemExit(f"Producto {i}: debe ser un objeto")
+              for key in ("name", "category", "slug"):
+                  if not isinstance(product.get(key), str) or not product[key].strip():
+                      raise SystemExit(f"Producto {i}: campo {key} vacío o inválido")
+          print(f"JSON válido: {len(products)} productos")
+          PY
